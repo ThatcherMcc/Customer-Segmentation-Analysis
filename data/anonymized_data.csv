@@ -1,0 +1,2497 @@
+!ACCNT,NAME,ACCNTTYPE,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+ACCNT,CITY,0CLIAB,,nan,,,nan
+ACCNT,Tax Payable,OCLIAB,,nan,,,nan
+ACCNT,Income,INC,,nan,,,nan
+ACCNT,Uncategorized Income,INC,,nan,,,nan
+ACCNT,Sales,INC,,nan,,,nan
+ACCNT,Accounts Receivable,AR,,nan,,,nan
+ACCNT,Service Income,INC,,nan,,,nan
+ACCNT,Payments Received,OCASSET,,nan,,,nan
+!CUST,NAME,,,nan,,,nan
+CUST,CUST_0001,,,nan,,,nan
+CUST,CUST_0002,,,nan,,,nan
+CUST,CUST_0003,,,nan,,,nan
+CUST,CUST_0004,,,nan,,,nan
+CUST,CUST_0005,,,nan,,,nan
+CUST,CUST_0006,,,nan,,,nan
+CUST,CUST_0007,,,nan,,,nan
+CUST,CUST_0008,,,nan,,,nan
+CUST,CUST_0009,,,nan,,,nan
+CUST,CUST_0010,,,nan,,,nan
+CUST,CUST_0011,,,nan,,,nan
+CUST,CUST_0012,,,nan,,,nan
+CUST,CUST_0013,,,nan,,,nan
+CUST,CUST_0014,,,nan,,,nan
+CUST,CUST_0015,,,nan,,,nan
+CUST,CUST_0016,,,nan,,,nan
+CUST,CUST_0017,,,nan,,,nan
+CUST,CUST_0018,,,nan,,,nan
+CUST,CUST_0019,,,nan,,,nan
+CUST,CUST_0020,,,nan,,,nan
+CUST,CUST_0021,,,nan,,,nan
+CUST,CUST_0022,,,nan,,,nan
+CUST,CUST_0023,,,nan,,,nan
+CUST,CUST_0024,,,nan,,,nan
+CUST,CUST_0025,,,nan,,,nan
+CUST,CUST_0026,,,nan,,,nan
+CUST,CUST_0027,,,nan,,,nan
+CUST,CUST_0028,,,nan,,,nan
+CUST,CUST_0029,,,nan,,,nan
+CUST,CUST_0030,,,nan,,,nan
+CUST,CUST_0031,,,nan,,,nan
+CUST,CUST_0032,,,nan,,,nan
+CUST,CUST_0033,,,nan,,,nan
+CUST,CUST_0034,,,nan,,,nan
+CUST,CUST_0035,,,nan,,,nan
+CUST,CUST_0036,,,nan,,,nan
+CUST,CUST_0037,,,nan,,,nan
+CUST,CUST_0038,,,nan,,,nan
+CUST,CUST_0039,,,nan,,,nan
+CUST,CUST_0040,,,nan,,,nan
+CUST,CUST_0041,,,nan,,,nan
+CUST,CUST_0042,,,nan,,,nan
+CUST,CUST_0043,,,nan,,,nan
+CUST,CUST_0044,,,nan,,,nan
+CUST,CUST_0045,,,nan,,,nan
+CUST,CUST_0046,,,nan,,,nan
+CUST,CUST_0047,,,nan,,,nan
+CUST,CUST_0048,,,nan,,,nan
+CUST,CUST_0049,,,nan,,,nan
+CUST,CUST_0050,,,nan,,,nan
+CUST,CUST_0051,,,nan,,,nan
+CUST,CUST_0052,,,nan,,,nan
+CUST,CUST_0053,,,nan,,,nan
+CUST,CUST_0054,,,nan,,,nan
+CUST,CUST_0055,,,nan,,,nan
+CUST,CUST_0056,,,nan,,,nan
+CUST,CUST_0057,,,nan,,,nan
+CUST,CUST_0058,,,nan,,,nan
+CUST,CUST_0059,,,nan,,,nan
+CUST,CUST_0060,,,nan,,,nan
+CUST,CUST_0061,,,nan,,,nan
+CUST,CUST_0062,,,nan,,,nan
+CUST,CUST_0063,,,nan,,,nan
+CUST,CUST_0064,,,nan,,,nan
+CUST,CUST_0065,,,nan,,,nan
+CUST,CUST_0066,,,nan,,,nan
+CUST,CUST_0067,,,nan,,,nan
+CUST,CUST_0068,,,nan,,,nan
+CUST,CUST_0069,,,nan,,,nan
+CUST,CUST_0070,,,nan,,,nan
+CUST,CUST_0071,,,nan,,,nan
+CUST,CUST_0072,,,nan,,,nan
+CUST,CUST_0073,,,nan,,,nan
+CUST,CUST_0074,,,nan,,,nan
+CUST,CUST_0075,,,nan,,,nan
+CUST,CUST_0076,,,nan,,,nan
+CUST,CUST_0077,,,nan,,,nan
+CUST,CUST_0078,,,nan,,,nan
+CUST,CUST_0079,,,nan,,,nan
+CUST,CUST_0080,,,nan,,,nan
+CUST,CUST_0081,,,nan,,,nan
+CUST,CUST_0082,,,nan,,,nan
+CUST,CUST_0083,,,nan,,,nan
+CUST,CUST_0084,,,nan,,,nan
+CUST,CUST_0085,,,nan,,,nan
+CUST,CUST_0086,,,nan,,,nan
+CUST,CUST_0087,,,nan,,,nan
+CUST,CUST_0088,,,nan,,,nan
+CUST,CUST_0089,,,nan,,,nan
+CUST,CUST_0090,,,nan,,,nan
+CUST,CUST_0091,,,nan,,,nan
+CUST,CUST_0092,,,nan,,,nan
+CUST,CUST_0093,,,nan,,,nan
+CUST,CUST_0094,,,nan,,,nan
+CUST,CUST_0095,,,nan,,,nan
+CUST,CUST_0096,,,nan,,,nan
+CUST,CUST_0097,,,nan,,,nan
+CUST,CUST_0098,,,nan,,,nan
+CUST,CUST_0099,,,nan,,,nan
+CUST,CUST_0100,,,nan,,,nan
+CUST,CUST_0101,,,nan,,,nan
+CUST,CUST_0102,,,nan,,,nan
+CUST,CUST_0103,,,nan,,,nan
+CUST,CUST_0104,,,nan,,,nan
+CUST,CUST_0105,,,nan,,,nan
+CUST,CUST_0106,,,nan,,,nan
+CUST,CUST_0107,,,nan,,,nan
+CUST,CUST_0108,,,nan,,,nan
+CUST,CUST_0109,,,nan,,,nan
+CUST,CUST_0110,,,nan,,,nan
+CUST,CUST_0111,,,nan,,,nan
+CUST,CUST_0112,,,nan,,,nan
+CUST,CUST_0113,,,nan,,,nan
+CUST,CUST_0114,,,nan,,,nan
+CUST,CUST_0115,,,nan,,,nan
+CUST,CUST_0116,,,nan,,,nan
+CUST,CUST_0117,,,nan,,,nan
+CUST,CUST_0118,,,nan,,,nan
+CUST,CUST_0119,,,nan,,,nan
+CUST,CUST_0120,,,nan,,,nan
+CUST,CUST_0121,,,nan,,,nan
+CUST,CUST_0122,,,nan,,,nan
+CUST,CUST_0123,,,nan,,,nan
+CUST,CUST_0124,,,nan,,,nan
+CUST,CUST_0125,,,nan,,,nan
+CUST,CUST_0126,,,nan,,,nan
+CUST,CUST_0127,,,nan,,,nan
+CUST,CUST_0128,,,nan,,,nan
+CUST,CUST_0129,,,nan,,,nan
+CUST,CUST_0130,,,nan,,,nan
+CUST,CUST_0131,,,nan,,,nan
+CUST,CUST_0132,,,nan,,,nan
+CUST,CUST_0133,,,nan,,,nan
+CUST,CUST_0134,,,nan,,,nan
+CUST,CUST_0135,,,nan,,,nan
+CUST,CUST_0136,,,nan,,,nan
+CUST,CUST_0137,,,nan,,,nan
+CUST,OWNER,,,nan,,,nan
+CUST,CUST_0139,,,nan,,,nan
+!TRNS,TRNSID,TRNSTYPE,DATE,ACCNT,,,MEMO
+!SPL,SPLID,TRNSTYPE,DATE,ACCNT,,,MEMO
+!ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/5/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1965 - CUST_0099
+SPL,nan,GENERAL JOURNAL,1/5/2024,Service Income,OWNER,-90.0,Payment for invoice #1965 - CUST_0099
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/13/2024,Accounts Receivable,CUST_0099,97.0,Invoice:1965
+SPL,nan,GENERAL JOURNAL,1/13/2024,Tax Payable,CUST_0099,-7.0,Invoice:1965
+SPL,nan,GENERAL JOURNAL,1/13/2024,Service Income,CUST_0099,-90.0,Invoice:1965 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/5/2024,Income,OWNER,7.0,Sales tax for invoice #1965
+SPL,nan,GENERAL JOURNAL,1/5/2024,CITY,OWNER,-7.0,Sales tax for invoice #1965
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/5/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1966 - CUST_0034
+SPL,nan,GENERAL JOURNAL,1/5/2024,Service Income,OWNER,-90.0,Payment for invoice #1966 - CUST_0034
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/13/2024,Accounts Receivable,CUST_0034,97.0,Invoice:1966
+SPL,nan,GENERAL JOURNAL,1/13/2024,Tax Payable,CUST_0034,-7.0,Invoice:1966
+SPL,nan,GENERAL JOURNAL,1/13/2024,Service Income,CUST_0034,-90.0,Invoice:1966 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/5/2024,Income,OWNER,7.0,Sales tax for invoice #1966
+SPL,nan,GENERAL JOURNAL,1/5/2024,CITY,OWNER,-7.0,Sales tax for invoice #1966
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/6/2024,Accounts Receivable,OWNER,100.0,Payment for invoice #1969 - CUST_0019
+SPL,nan,GENERAL JOURNAL,1/6/2024,Service Income,OWNER,-100.0,Payment for invoice #1969 - CUST_0019
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/16/2024,Accounts Receivable,CUST_0019,108.0,Invoice:1969
+SPL,nan,GENERAL JOURNAL,1/16/2024,Tax Payable,CUST_0019,-8.0,Invoice:1969
+SPL,nan,GENERAL JOURNAL,1/16/2024,Service Income,CUST_0019,-100.0,Invoice:1969 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/6/2024,Income,OWNER,8.0,Sales tax for invoice #1969
+SPL,nan,GENERAL JOURNAL,1/6/2024,CITY,OWNER,-8.0,Sales tax for invoice #1969
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/6/2024,Accounts Receivable,OWNER,35.0,Tip for invoice #1970 - CUST_0018
+SPL,nan,GENERAL JOURNAL,1/6/2024,Uncategorized Income,OWNER,-35.0,Tip for invoice #1970 - CUST_0018
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/16/2024,Accounts Receivable,CUST_0018,206.0,Invoice:1970
+SPL,nan,GENERAL JOURNAL,1/16/2024,Tax Payable,CUST_0018,-16.0,Invoice:1970
+SPL,nan,GENERAL JOURNAL,1/16/2024,Service Income,CUST_0018,-90.0,Invoice:1970 SERVICE
+SPL,nan,GENERAL JOURNAL,1/16/2024,Service Income,CUST_0018,-100.0,Invoice:1970 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/6/2024,Accounts Receivable,OWNER,190.0,Payment for invoice #1970 - CUST_0018
+SPL,nan,GENERAL JOURNAL,1/6/2024,Service Income,OWNER,-190.0,Payment for invoice #1970 - CUST_0018
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/6/2024,Income,OWNER,16.0,Sales tax for invoice #1970
+SPL,nan,GENERAL JOURNAL,1/6/2024,CITY,OWNER,-16.0,Sales tax for invoice #1970
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/8/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #1968 - CUST_0034
+SPL,nan,GENERAL JOURNAL,1/8/2024,Service Income,OWNER,-50.0,Payment for invoice #1968 - CUST_0034
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/15/2024,Accounts Receivable,CUST_0034,54.0,Invoice:1968
+SPL,nan,GENERAL JOURNAL,1/15/2024,Tax Payable,CUST_0034,-4.0,Invoice:1968
+SPL,nan,GENERAL JOURNAL,1/15/2024,Service Income,CUST_0034,-50.0,Invoice:1968 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/8/2024,Income,OWNER,4.0,Sales tax for invoice #1968
+SPL,nan,GENERAL JOURNAL,1/8/2024,CITY,OWNER,-4.0,Sales tax for invoice #1968
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/9/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1967 - CUST_0102
+SPL,nan,GENERAL JOURNAL,1/9/2024,Service Income,OWNER,-90.0,Payment for invoice #1967 - CUST_0102
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/14/2024,Accounts Receivable,CUST_0102,97.0,Invoice:1967
+SPL,nan,GENERAL JOURNAL,1/14/2024,Tax Payable,CUST_0102,-7.0,Invoice:1967
+SPL,nan,GENERAL JOURNAL,1/14/2024,Service Income,CUST_0102,-90.0,Invoice:1967 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/9/2024,Income,OWNER,7.0,Sales tax for invoice #1967
+SPL,nan,GENERAL JOURNAL,1/9/2024,CITY,OWNER,-7.0,Sales tax for invoice #1967
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/11/2024,Accounts Receivable,OWNER,249.0,Payment for invoice #1973 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/11/2024,Service Income,OWNER,-249.0,Payment for invoice #1973 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/12/2024,Accounts Receivable,CUST_0041,270.0,Invoice:1973
+SPL,nan,GENERAL JOURNAL,1/12/2024,Tax Payable,CUST_0041,-21.0,Invoice:1973
+SPL,nan,GENERAL JOURNAL,1/12/2024,Service Income,CUST_0041,-249.0,Invoice:1973 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/11/2024,Income,OWNER,21.0,Sales tax for invoice #1973
+SPL,nan,GENERAL JOURNAL,1/11/2024,CITY,OWNER,-21.0,Sales tax for invoice #1973
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/13/2024,Accounts Receivable,OWNER,145.0,Payment for invoice #1972 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/13/2024,Service Income,OWNER,-145.0,Payment for invoice #1972 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/18/2024,Accounts Receivable,CUST_0081,157.0,Invoice:1972
+SPL,nan,GENERAL JOURNAL,1/18/2024,Tax Payable,CUST_0081,-12.0,Invoice:1972
+SPL,nan,GENERAL JOURNAL,1/18/2024,Service Income,CUST_0081,-145.0,Invoice:1972 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/13/2024,Income,OWNER,12.0,Sales tax for invoice #1972
+SPL,nan,GENERAL JOURNAL,1/13/2024,CITY,OWNER,-12.0,Sales tax for invoice #1972
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/12/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #1974 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/12/2024,Service Income,OWNER,-95.0,Payment for invoice #1974 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/22/2024,Accounts Receivable,CUST_0081,103.0,Invoice:1974
+SPL,nan,GENERAL JOURNAL,1/22/2024,Tax Payable,CUST_0081,-8.0,Invoice:1974
+SPL,nan,GENERAL JOURNAL,1/22/2024,Service Income,CUST_0081,-95.0,Invoice:1974 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/12/2024,Income,OWNER,8.0,Sales tax for invoice #1974
+SPL,nan,GENERAL JOURNAL,1/12/2024,CITY,OWNER,-8.0,Sales tax for invoice #1974
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/14/2024,Accounts Receivable,OWNER,100.0,Payment for invoice #1971 - CUST_0102
+SPL,nan,GENERAL JOURNAL,1/14/2024,Service Income,OWNER,-100.0,Payment for invoice #1971 - CUST_0102
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/20/2024,Accounts Receivable,CUST_0102,108.0,Invoice:1971
+SPL,nan,GENERAL JOURNAL,1/20/2024,Tax Payable,CUST_0102,-8.0,Invoice:1971
+SPL,nan,GENERAL JOURNAL,1/20/2024,Service Income,CUST_0102,-100.0,Invoice:1971 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/14/2024,Income,OWNER,8.0,Sales tax for invoice #1971
+SPL,nan,GENERAL JOURNAL,1/14/2024,CITY,OWNER,-8.0,Sales tax for invoice #1971
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/16/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #1975 - CUST_0112
+SPL,nan,GENERAL JOURNAL,1/16/2024,Sales,OWNER,-250.0,Payment for invoice #1975 - CUST_0112
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/23/2024,Accounts Receivable,CUST_0112,271.0,Invoice:1975
+SPL,nan,GENERAL JOURNAL,1/23/2024,Tax Payable,CUST_0112,-21.0,Invoice:1975
+SPL,nan,GENERAL JOURNAL,1/23/2024,Sales,CUST_0112,-250.0,Invoice:1975 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/16/2024,Income,OWNER,21.0,Sales tax for invoice #1975
+SPL,nan,GENERAL JOURNAL,1/16/2024,CITY,OWNER,-21.0,Sales tax for invoice #1975
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/16/2024,Accounts Receivable,OWNER,375.0,Payment for invoice #1976 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/16/2024,Service Income,OWNER,-375.0,Payment for invoice #1976 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/23/2024,Accounts Receivable,CUST_0028,406.0,Invoice:1976
+SPL,nan,GENERAL JOURNAL,1/23/2024,Tax Payable,CUST_0028,-31.0,Invoice:1976
+SPL,nan,GENERAL JOURNAL,1/23/2024,Service Income,CUST_0028,-375.0,Invoice:1976 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/16/2024,Income,OWNER,31.0,Sales tax for invoice #1976
+SPL,nan,GENERAL JOURNAL,1/16/2024,CITY,OWNER,-31.0,Sales tax for invoice #1976
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/18/2024,Accounts Receivable,OWNER,1075.0,Payment for invoice #1978 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/18/2024,Service Income,OWNER,-1075.0,Payment for invoice #1978 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/20/2024,Accounts Receivable,CUST_0040,1075.0,Invoice:1978
+SPL,nan,GENERAL JOURNAL,1/20/2024,Service Income,CUST_0040,-295.0,Invoice:1978 SERVICE
+SPL,nan,GENERAL JOURNAL,1/20/2024,Service Income,CUST_0040,-780.0,Invoice:1978 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/25/2024,Accounts Receivable,OWNER,2655.0,Payment for invoice #1982 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/25/2024,Service Income,OWNER,-2655.0,Payment for invoice #1982 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/26/2024,Accounts Receivable,CUST_0064,2874.0,Invoice:1982
+SPL,nan,GENERAL JOURNAL,1/26/2024,Tax Payable,CUST_0064,-219.0,Invoice:1982
+SPL,nan,GENERAL JOURNAL,1/26/2024,Service Income,CUST_0064,-1340.0,Invoice:1982 SERVICE
+SPL,nan,GENERAL JOURNAL,1/26/2024,Service Income,CUST_0064,-1315.0,Invoice:1982 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/25/2024,Income,OWNER,219.0,Sales tax for invoice #1982
+SPL,nan,GENERAL JOURNAL,1/25/2024,CITY,OWNER,-219.0,Sales tax for invoice #1982
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/28/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1983 - CUST_0091
+SPL,nan,GENERAL JOURNAL,1/28/2024,Service Income,OWNER,-90.0,Payment for invoice #1983 - CUST_0091
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Accounts Receivable,CUST_0091,97.0,Invoice:1983
+SPL,nan,GENERAL JOURNAL,2/8/2024,Tax Payable,CUST_0091,-7.0,Invoice:1983
+SPL,nan,GENERAL JOURNAL,2/8/2024,Service Income,CUST_0091,-90.0,Invoice:1983 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/28/2024,Income,OWNER,7.0,Sales tax for invoice #1983
+SPL,nan,GENERAL JOURNAL,1/28/2024,CITY,OWNER,-7.0,Sales tax for invoice #1983
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/28/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1984 - CUST_0097
+SPL,nan,GENERAL JOURNAL,1/28/2024,Service Income,OWNER,-90.0,Payment for invoice #1984 - CUST_0097
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Accounts Receivable,CUST_0097,97.0,Invoice:1984
+SPL,nan,GENERAL JOURNAL,2/8/2024,Tax Payable,CUST_0097,-7.0,Invoice:1984
+SPL,nan,GENERAL JOURNAL,2/8/2024,Service Income,CUST_0097,-90.0,Invoice:1984 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/28/2024,Income,OWNER,7.0,Sales tax for invoice #1984
+SPL,nan,GENERAL JOURNAL,1/28/2024,CITY,OWNER,-7.0,Sales tax for invoice #1984
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/28/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1985 - CUST_0095
+SPL,nan,GENERAL JOURNAL,1/28/2024,Service Income,OWNER,-90.0,Payment for invoice #1985 - CUST_0095
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Accounts Receivable,CUST_0095,97.0,Invoice:1985
+SPL,nan,GENERAL JOURNAL,2/8/2024,Tax Payable,CUST_0095,-7.0,Invoice:1985
+SPL,nan,GENERAL JOURNAL,2/8/2024,Service Income,CUST_0095,-90.0,Invoice:1985 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/28/2024,Income,OWNER,7.0,Sales tax for invoice #1985
+SPL,nan,GENERAL JOURNAL,1/28/2024,CITY,OWNER,-7.0,Sales tax for invoice #1985
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/29/2024,Accounts Receivable,OWNER,835.0,Payment for invoice #1981 - CUST_0117
+SPL,nan,GENERAL JOURNAL,1/29/2024,Service Income,OWNER,-835.0,Payment for invoice #1981 - CUST_0117
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/1/2024,Accounts Receivable,CUST_0117,883.0,Invoice:1981
+SPL,nan,GENERAL JOURNAL,2/1/2024,Tax Payable,CUST_0117,-48.0,Invoice:1981
+SPL,nan,GENERAL JOURNAL,2/1/2024,Service Income,CUST_0117,-585.0,Invoice:1981 SERVICE
+SPL,nan,GENERAL JOURNAL,2/1/2024,Service Income,CUST_0117,-250.0,Invoice:1981 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/29/2024,Income,OWNER,48.0,Sales tax for invoice #1981
+SPL,nan,GENERAL JOURNAL,1/29/2024,CITY,OWNER,-48.0,Sales tax for invoice #1981
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/31/2024,Accounts Receivable,OWNER,15010.0,Payment for invoice #1979 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,1/31/2024,Service Income,OWNER,-15010.0,Payment for invoice #1979 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/27/2024,Accounts Receivable,CUST_0105,16248.0,Invoice:1979
+SPL,nan,GENERAL JOURNAL,1/27/2024,Tax Payable,CUST_0105,-1238.0,Invoice:1979
+SPL,nan,GENERAL JOURNAL,1/27/2024,Service Income,CUST_0105,-15010.0,Invoice:1979 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/31/2024,Income,OWNER,1238.0,Sales tax for invoice #1979
+SPL,nan,GENERAL JOURNAL,1/31/2024,CITY,OWNER,-1238.0,Sales tax for invoice #1979
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/1/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1987 - CUST_0036
+SPL,nan,GENERAL JOURNAL,2/1/2024,Service Income,OWNER,-90.0,Payment for invoice #1987 - CUST_0036
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Accounts Receivable,CUST_0036,97.0,Invoice:1987
+SPL,nan,GENERAL JOURNAL,2/8/2024,Tax Payable,CUST_0036,-7.0,Invoice:1987
+SPL,nan,GENERAL JOURNAL,2/8/2024,Service Income,CUST_0036,-90.0,Invoice:1987 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/1/2024,Income,OWNER,7.0,Sales tax for invoice #1987
+SPL,nan,GENERAL JOURNAL,2/1/2024,CITY,OWNER,-7.0,Sales tax for invoice #1987
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/1/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #1988 - CUST_0042
+SPL,nan,GENERAL JOURNAL,2/1/2024,Service Income,OWNER,-90.0,Payment for invoice #1988 - CUST_0042
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Accounts Receivable,CUST_0042,97.0,Invoice:1988
+SPL,nan,GENERAL JOURNAL,2/8/2024,Tax Payable,CUST_0042,-7.0,Invoice:1988
+SPL,nan,GENERAL JOURNAL,2/8/2024,Service Income,CUST_0042,-90.0,Invoice:1988 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/1/2024,Income,OWNER,7.0,Sales tax for invoice #1988
+SPL,nan,GENERAL JOURNAL,2/1/2024,CITY,OWNER,-7.0,Sales tax for invoice #1988
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/3/2024,Accounts Receivable,OWNER,335.0,Payment for invoice #1989 - CUST_0115
+SPL,nan,GENERAL JOURNAL,2/3/2024,Service Income,OWNER,-335.0,Payment for invoice #1989 - CUST_0115
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/10/2024,Accounts Receivable,CUST_0115,363.0,Invoice:1989
+SPL,nan,GENERAL JOURNAL,2/10/2024,Tax Payable,CUST_0115,-28.0,Invoice:1989
+SPL,nan,GENERAL JOURNAL,2/10/2024,Service Income,CUST_0115,-335.0,Invoice:1989 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/3/2024,Income,OWNER,28.0,Sales tax for invoice #1989
+SPL,nan,GENERAL JOURNAL,2/3/2024,CITY,OWNER,-28.0,Sales tax for invoice #1989
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/4/2024,Accounts Receivable,OWNER,235.0,Payment for invoice #1990 - CUST_0030
+SPL,nan,GENERAL JOURNAL,2/4/2024,Service Income,OWNER,-235.0,Payment for invoice #1990 - CUST_0030
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/6/2024,Accounts Receivable,CUST_0030,254.0,Invoice:1990
+SPL,nan,GENERAL JOURNAL,2/6/2024,Tax Payable,CUST_0030,-19.0,Invoice:1990
+SPL,nan,GENERAL JOURNAL,2/6/2024,Service Income,CUST_0030,-240.0,Invoice:1990 SERVICE
+SPL,nan,GENERAL JOURNAL,2/6/2024,Service Income,CUST_0030,-95.0,Invoice:1990 SERVICE
+SPL,nan,GENERAL JOURNAL,2/6/2024,Sales,CUST_0030,100.0,Invoice:1990
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/4/2024,Income,OWNER,19.0,Sales tax for invoice #1990
+SPL,nan,GENERAL JOURNAL,2/4/2024,CITY,OWNER,-19.0,Sales tax for invoice #1990
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/5/2024,Accounts Receivable,OWNER,295.0,Payment for invoice #1991 - CUST_0048
+SPL,nan,GENERAL JOURNAL,2/5/2024,Service Income,OWNER,-295.0,Payment for invoice #1991 - CUST_0048
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/12/2024,Accounts Receivable,CUST_0048,319.0,Invoice:1991
+SPL,nan,GENERAL JOURNAL,2/12/2024,Tax Payable,CUST_0048,-24.0,Invoice:1991
+SPL,nan,GENERAL JOURNAL,2/12/2024,Service Income,CUST_0048,-295.0,Invoice:1991 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/5/2024,Income,OWNER,24.0,Sales tax for invoice #1991
+SPL,nan,GENERAL JOURNAL,2/5/2024,CITY,OWNER,-24.0,Sales tax for invoice #1991
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/7/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #1980 - CUST_0022
+SPL,nan,GENERAL JOURNAL,2/7/2024,Service Income,OWNER,-250.0,Payment for invoice #1980 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/30/2024,Accounts Receivable,CUST_0022,271.0,Invoice:1980
+SPL,nan,GENERAL JOURNAL,1/30/2024,Tax Payable,CUST_0022,-21.0,Invoice:1980
+SPL,nan,GENERAL JOURNAL,1/30/2024,Service Income,CUST_0022,-250.0,Invoice:1980 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/7/2024,Income,OWNER,21.0,Sales tax for invoice #1980
+SPL,nan,GENERAL JOURNAL,2/7/2024,CITY,OWNER,-21.0,Sales tax for invoice #1980
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/7/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #1992 - CUST_0132
+SPL,nan,GENERAL JOURNAL,2/7/2024,Service Income,OWNER,-155.0,Payment for invoice #1992 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/14/2024,Accounts Receivable,CUST_0132,168.0,Invoice:1992
+SPL,nan,GENERAL JOURNAL,2/14/2024,Tax Payable,CUST_0132,-13.0,Invoice:1992
+SPL,nan,GENERAL JOURNAL,2/14/2024,Service Income,CUST_0132,-155.0,Invoice:1992 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/7/2024,Income,OWNER,13.0,Sales tax for invoice #1992
+SPL,nan,GENERAL JOURNAL,2/7/2024,CITY,OWNER,-13.0,Sales tax for invoice #1992
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/7/2024,Accounts Receivable,OWNER,150.0,Payment for invoice #1994 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/7/2024,Service Income,OWNER,-150.0,Payment for invoice #1994 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,CUST_0055,150.0,Invoice:1994
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0055,-150.0,Invoice:1994 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/7/2024,Income,OWNER,12.0,Sales tax for invoice #1994
+SPL,nan,GENERAL JOURNAL,2/7/2024,CITY,OWNER,-12.0,Sales tax for invoice #1994
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Accounts Receivable,OWNER,835.0,Payment for invoice #1993 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/8/2024,Service Income,OWNER,-835.0,Payment for invoice #1993 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,CUST_0035,904.0,Invoice:1993
+SPL,nan,GENERAL JOURNAL,2/15/2024,Tax Payable,CUST_0035,-69.0,Invoice:1993
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0035,-595.0,Invoice:1993 SERVICE
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0035,-145.0,Invoice:1993 SERVICE
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0035,-95.0,Invoice:1993 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/8/2024,Income,OWNER,69.0,Sales tax for invoice #1993
+SPL,nan,GENERAL JOURNAL,2/8/2024,CITY,OWNER,-69.0,Sales tax for invoice #1993
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/9/2024,Accounts Receivable,OWNER,1090.0,Payment for invoice #1997 - CUST_0001
+SPL,nan,GENERAL JOURNAL,2/9/2024,Service Income,OWNER,-1090.0,Payment for invoice #1997 - CUST_0001
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/10/2024,Accounts Receivable,CUST_0001,1180.0,Invoice:1997
+SPL,nan,GENERAL JOURNAL,2/10/2024,Tax Payable,CUST_0001,-90.0,Invoice:1997
+SPL,nan,GENERAL JOURNAL,2/10/2024,Service Income,CUST_0001,-1090.0,Invoice:1997 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/9/2024,Income,OWNER,90.0,Sales tax for invoice #1997
+SPL,nan,GENERAL JOURNAL,2/9/2024,CITY,OWNER,-90.0,Sales tax for invoice #1997
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/11/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #1996 - CUST_0023
+SPL,nan,GENERAL JOURNAL,2/11/2024,Service Income,OWNER,-250.0,Payment for invoice #1996 - CUST_0023
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/16/2024,Accounts Receivable,CUST_0023,271.0,Invoice:1996
+SPL,nan,GENERAL JOURNAL,2/16/2024,Tax Payable,CUST_0023,-21.0,Invoice:1996
+SPL,nan,GENERAL JOURNAL,2/16/2024,Service Income,CUST_0023,-250.0,Invoice:1996 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/11/2024,Income,OWNER,21.0,Sales tax for invoice #1996
+SPL,nan,GENERAL JOURNAL,2/11/2024,CITY,OWNER,-21.0,Sales tax for invoice #1996
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/12/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #1998 - CUST_0091
+SPL,nan,GENERAL JOURNAL,2/12/2024,Service Income,OWNER,-50.0,Payment for invoice #1998 - CUST_0091
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,CUST_0091,54.0,Invoice:1998
+SPL,nan,GENERAL JOURNAL,2/22/2024,Tax Payable,CUST_0091,-4.0,Invoice:1998
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0091,-50.0,Invoice:1998 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/12/2024,Income,OWNER,4.0,Sales tax for invoice #1998
+SPL,nan,GENERAL JOURNAL,2/12/2024,CITY,OWNER,-4.0,Sales tax for invoice #1998
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/12/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #1999 - CUST_0042
+SPL,nan,GENERAL JOURNAL,2/12/2024,Service Income,OWNER,-50.0,Payment for invoice #1999 - CUST_0042
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,CUST_0042,54.0,Invoice:1999
+SPL,nan,GENERAL JOURNAL,2/22/2024,Tax Payable,CUST_0042,-4.0,Invoice:1999
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0042,-50.0,Invoice:1999 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/12/2024,Income,OWNER,4.0,Sales tax for invoice #1999
+SPL,nan,GENERAL JOURNAL,2/12/2024,CITY,OWNER,-4.0,Sales tax for invoice #1999
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/12/2024,Accounts Receivable,OWNER,150.0,Payment for invoice #1995 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/12/2024,Service Income,OWNER,-150.0,Payment for invoice #1995 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,CUST_0055,150.0,Invoice:1995
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0055,-150.0,Invoice:1995 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/14/2024,Accounts Receivable,OWNER,3310.0,Payment for invoice #2005 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/14/2024,Service Income,OWNER,-3310.0,Payment for invoice #2005 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,CUST_0086,3583.0,Invoice:2005
+SPL,nan,GENERAL JOURNAL,2/22/2024,Tax Payable,CUST_0086,-273.0,Invoice:2005
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0086,-1615.0,Invoice:2005 SERVICE
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0086,-900.0,Invoice:2005 SERVICE
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0086,-795.0,Invoice:2005 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/14/2024,Income,OWNER,273.0,Sales tax for invoice #2005
+SPL,nan,GENERAL JOURNAL,2/14/2024,CITY,OWNER,-273.0,Sales tax for invoice #2005
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2006 - CUST_0133
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,OWNER,-90.0,Payment for invoice #2006 - CUST_0133
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,CUST_0133,97.0,Invoice:2006
+SPL,nan,GENERAL JOURNAL,2/15/2024,Tax Payable,CUST_0133,-7.0,Invoice:2006
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0133,-90.0,Invoice:2006 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Income,OWNER,7.0,Sales tax for invoice #2006
+SPL,nan,GENERAL JOURNAL,2/15/2024,CITY,OWNER,-7.0,Sales tax for invoice #2006
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,OWNER,4920.0,Payment for invoice #2004 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,OWNER,-4920.0,Payment for invoice #2004 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,CUST_0003,5326.0,Invoice:2004
+SPL,nan,GENERAL JOURNAL,2/15/2024,Tax Payable,CUST_0003,-406.0,Invoice:2004
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,CUST_0003,-4920.0,Invoice:2004 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Income,OWNER,406.0,Sales tax for invoice #2004
+SPL,nan,GENERAL JOURNAL,2/15/2024,CITY,OWNER,-406.0,Sales tax for invoice #2004
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Accounts Receivable,OWNER,900.0,Payment for invoice #2003 - CUST_0101
+SPL,nan,GENERAL JOURNAL,2/15/2024,Service Income,OWNER,-900.0,Payment for invoice #2003 - CUST_0101
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,CUST_0101,900.0,Invoice:2003
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0101,-900.0,Invoice:2003 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/15/2024,Income,OWNER,0.0,Sales tax for invoice #2003
+SPL,nan,GENERAL JOURNAL,2/15/2024,CITY,OWNER,0.0,Sales tax for invoice #2003
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/17/2024,Accounts Receivable,OWNER,980.0,Payment for invoice #1986 - CUST_0068
+SPL,nan,GENERAL JOURNAL,2/17/2024,Service Income,OWNER,-980.0,Payment for invoice #1986 - CUST_0068
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/6/2024,Accounts Receivable,CUST_0068,1061.0,Invoice:1986
+SPL,nan,GENERAL JOURNAL,2/6/2024,Tax Payable,CUST_0068,-81.0,Invoice:1986
+SPL,nan,GENERAL JOURNAL,2/6/2024,Service Income,CUST_0068,-785.0,Invoice:1986 SERVICE
+SPL,nan,GENERAL JOURNAL,2/6/2024,Service Income,CUST_0068,-195.0,Invoice:1986 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/17/2024,Income,OWNER,81.0,Sales tax for invoice #1986
+SPL,nan,GENERAL JOURNAL,2/17/2024,CITY,OWNER,-81.0,Sales tax for invoice #1986
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/16/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2008 - CUST_0017
+SPL,nan,GENERAL JOURNAL,2/16/2024,Service Income,OWNER,-90.0,Payment for invoice #2008 - CUST_0017
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/26/2024,Accounts Receivable,CUST_0017,97.0,Invoice:2008
+SPL,nan,GENERAL JOURNAL,2/26/2024,Tax Payable,CUST_0017,-7.0,Invoice:2008
+SPL,nan,GENERAL JOURNAL,2/26/2024,Service Income,CUST_0017,-90.0,Invoice:2008 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/16/2024,Income,OWNER,7.0,Sales tax for invoice #2008
+SPL,nan,GENERAL JOURNAL,2/16/2024,CITY,OWNER,-7.0,Sales tax for invoice #2008
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/16/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2009 - CUST_0002
+SPL,nan,GENERAL JOURNAL,2/16/2024,Service Income,OWNER,-90.0,Payment for invoice #2009 - CUST_0002
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/26/2024,Accounts Receivable,CUST_0002,97.0,Invoice:2009
+SPL,nan,GENERAL JOURNAL,2/26/2024,Tax Payable,CUST_0002,-7.0,Invoice:2009
+SPL,nan,GENERAL JOURNAL,2/26/2024,Service Income,CUST_0002,-90.0,Invoice:2009 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/16/2024,Income,OWNER,7.0,Sales tax for invoice #2009
+SPL,nan,GENERAL JOURNAL,2/16/2024,CITY,OWNER,-7.0,Sales tax for invoice #2009
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/18/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2001 - CUST_0046
+SPL,nan,GENERAL JOURNAL,2/18/2024,Service Income,OWNER,-90.0,Payment for invoice #2001 - CUST_0046
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,CUST_0046,97.0,Invoice:2001
+SPL,nan,GENERAL JOURNAL,2/22/2024,Tax Payable,CUST_0046,-7.0,Invoice:2001
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,CUST_0046,-90.0,Invoice:2001 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/18/2024,Income,OWNER,7.0,Sales tax for invoice #2001
+SPL,nan,GENERAL JOURNAL,2/18/2024,CITY,OWNER,-7.0,Sales tax for invoice #2001
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/18/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2002 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/18/2024,Service Income,OWNER,-250.0,Payment for invoice #2002 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/13/2024,Accounts Receivable,CUST_0116,271.0,Invoice:2002
+SPL,nan,GENERAL JOURNAL,2/13/2024,Tax Payable,CUST_0116,-21.0,Invoice:2002
+SPL,nan,GENERAL JOURNAL,2/13/2024,Service Income,CUST_0116,-250.0,Invoice:2002 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/18/2024,Income,OWNER,21.0,Sales tax for invoice #2002
+SPL,nan,GENERAL JOURNAL,2/18/2024,CITY,OWNER,-21.0,Sales tax for invoice #2002
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/19/2024,Accounts Receivable,OWNER,20.0,Tip for invoice #2007 - CUST_0097
+SPL,nan,GENERAL JOURNAL,2/19/2024,Uncategorized Income,OWNER,-20.0,Tip for invoice #2007 - CUST_0097
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/26/2024,Accounts Receivable,CUST_0097,108.0,Invoice:2007
+SPL,nan,GENERAL JOURNAL,2/26/2024,Tax Payable,CUST_0097,-8.0,Invoice:2007
+SPL,nan,GENERAL JOURNAL,2/26/2024,Service Income,CUST_0097,-100.0,Invoice:2007 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/19/2024,Accounts Receivable,OWNER,100.0,Payment for invoice #2007 - CUST_0097
+SPL,nan,GENERAL JOURNAL,2/19/2024,Service Income,OWNER,-100.0,Payment for invoice #2007 - CUST_0097
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/19/2024,Income,OWNER,8.0,Sales tax for invoice #2007
+SPL,nan,GENERAL JOURNAL,2/19/2024,CITY,OWNER,-8.0,Sales tax for invoice #2007
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/19/2024,Accounts Receivable,OWNER,249.0,Payment for invoice #2013 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,2/19/2024,Service Income,OWNER,-249.0,Payment for invoice #2013 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/27/2024,Accounts Receivable,CUST_0033,270.0,Invoice:2013
+SPL,nan,GENERAL JOURNAL,2/27/2024,Tax Payable,CUST_0033,-21.0,Invoice:2013
+SPL,nan,GENERAL JOURNAL,2/27/2024,Service Income,CUST_0033,-249.0,Invoice:2013 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/19/2024,Income,OWNER,21.0,Sales tax for invoice #2013
+SPL,nan,GENERAL JOURNAL,2/19/2024,CITY,OWNER,-21.0,Sales tax for invoice #2013
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/20/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2014 - CUST_0133
+SPL,nan,GENERAL JOURNAL,2/20/2024,Service Income,OWNER,-50.0,Payment for invoice #2014 - CUST_0133
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/1/2024,Accounts Receivable,CUST_0133,54.0,Invoice:2014
+SPL,nan,GENERAL JOURNAL,3/1/2024,Tax Payable,CUST_0133,-4.0,Invoice:2014
+SPL,nan,GENERAL JOURNAL,3/1/2024,Service Income,CUST_0133,-50.0,Invoice:2014 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/20/2024,Income,OWNER,4.0,Sales tax for invoice #2014
+SPL,nan,GENERAL JOURNAL,2/20/2024,CITY,OWNER,-4.0,Sales tax for invoice #2014
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/21/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2015 - CUST_0002
+SPL,nan,GENERAL JOURNAL,2/21/2024,Service Income,OWNER,-50.0,Payment for invoice #2015 - CUST_0002
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/1/2024,Accounts Receivable,CUST_0002,54.0,Invoice:2015
+SPL,nan,GENERAL JOURNAL,3/1/2024,Tax Payable,CUST_0002,-4.0,Invoice:2015
+SPL,nan,GENERAL JOURNAL,3/1/2024,Service Income,CUST_0002,-50.0,Invoice:2015 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/21/2024,Income,OWNER,4.0,Sales tax for invoice #2015
+SPL,nan,GENERAL JOURNAL,2/21/2024,CITY,OWNER,-4.0,Sales tax for invoice #2015
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2016 - CUST_0046
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,OWNER,-90.0,Payment for invoice #2016 - CUST_0046
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/3/2024,Accounts Receivable,CUST_0046,97.0,Invoice:2016
+SPL,nan,GENERAL JOURNAL,3/3/2024,Tax Payable,CUST_0046,-7.0,Invoice:2016
+SPL,nan,GENERAL JOURNAL,3/3/2024,Service Income,CUST_0046,-90.0,Invoice:2016 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Income,OWNER,7.0,Sales tax for invoice #2016
+SPL,nan,GENERAL JOURNAL,2/22/2024,CITY,OWNER,-7.0,Sales tax for invoice #2016
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Accounts Receivable,OWNER,390.0,Payment for invoice #2011 - CUST_0083
+SPL,nan,GENERAL JOURNAL,2/22/2024,Service Income,OWNER,-390.0,Payment for invoice #2011 - CUST_0083
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/20/2024,Accounts Receivable,CUST_0083,422.0,Invoice:2011
+SPL,nan,GENERAL JOURNAL,2/20/2024,Tax Payable,CUST_0083,-32.0,Invoice:2011
+SPL,nan,GENERAL JOURNAL,2/20/2024,Service Income,CUST_0083,-390.0,Invoice:2011 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/22/2024,Income,OWNER,32.0,Sales tax for invoice #2011
+SPL,nan,GENERAL JOURNAL,2/22/2024,CITY,OWNER,-32.0,Sales tax for invoice #2011
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/23/2024,Accounts Receivable,OWNER,335.0,Payment for invoice #2017 - CUST_0137
+SPL,nan,GENERAL JOURNAL,2/23/2024,Service Income,OWNER,-335.0,Payment for invoice #2017 - CUST_0137
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/25/2024,Accounts Receivable,CUST_0137,363.0,Invoice:2017
+SPL,nan,GENERAL JOURNAL,2/25/2024,Tax Payable,CUST_0137,-28.0,Invoice:2017
+SPL,nan,GENERAL JOURNAL,2/25/2024,Service Income,CUST_0137,-240.0,Invoice:2017 SERVICE
+SPL,nan,GENERAL JOURNAL,2/25/2024,Service Income,CUST_0137,-95.0,Invoice:2017 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/23/2024,Income,OWNER,28.0,Sales tax for invoice #2017
+SPL,nan,GENERAL JOURNAL,2/23/2024,CITY,OWNER,-28.0,Sales tax for invoice #2017
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/28/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2020 - CUST_0058
+SPL,nan,GENERAL JOURNAL,2/28/2024,Service Income,OWNER,-170.0,Payment for invoice #2020 - CUST_0058
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/7/2024,Accounts Receivable,CUST_0058,368.0,Invoice:2020
+SPL,nan,GENERAL JOURNAL,3/7/2024,Tax Payable,CUST_0058,-28.0,Invoice:2020
+SPL,nan,GENERAL JOURNAL,3/7/2024,Service Income,CUST_0058,-340.0,Invoice:2020 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,2/28/2024,Income,OWNER,14.0,Sales tax for invoice #2020
+SPL,nan,GENERAL JOURNAL,2/28/2024,CITY,OWNER,-14.0,Sales tax for invoice #2020
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/1/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #2019 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,3/1/2024,Service Income,OWNER,-95.0,Payment for invoice #2019 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/1/2024,Accounts Receivable,CUST_0064,103.0,Invoice:2019
+SPL,nan,GENERAL JOURNAL,3/1/2024,Tax Payable,CUST_0064,-8.0,Invoice:2019
+SPL,nan,GENERAL JOURNAL,3/1/2024,Service Income,CUST_0064,-95.0,Invoice:2019 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/1/2024,Income,OWNER,8.0,Sales tax for invoice #2019
+SPL,nan,GENERAL JOURNAL,3/1/2024,CITY,OWNER,-8.0,Sales tax for invoice #2019
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/2/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #2018 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,3/2/2024,Service Income,OWNER,-95.0,Payment for invoice #2018 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/1/2024,Accounts Receivable,CUST_0116,103.0,Invoice:2018
+SPL,nan,GENERAL JOURNAL,3/1/2024,Tax Payable,CUST_0116,-8.0,Invoice:2018
+SPL,nan,GENERAL JOURNAL,3/1/2024,Service Income,CUST_0116,-95.0,Invoice:2018 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/2/2024,Income,OWNER,8.0,Sales tax for invoice #2018
+SPL,nan,GENERAL JOURNAL,3/2/2024,CITY,OWNER,-8.0,Sales tax for invoice #2018
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/4/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2022 - CUST_0023
+SPL,nan,GENERAL JOURNAL,3/4/2024,Service Income,OWNER,-250.0,Payment for invoice #2022 - CUST_0023
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/12/2024,Accounts Receivable,CUST_0023,271.0,Invoice:2022
+SPL,nan,GENERAL JOURNAL,3/12/2024,Tax Payable,CUST_0023,-21.0,Invoice:2022
+SPL,nan,GENERAL JOURNAL,3/12/2024,Service Income,CUST_0023,-250.0,Invoice:2022 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/4/2024,Income,OWNER,21.0,Sales tax for invoice #2022
+SPL,nan,GENERAL JOURNAL,3/4/2024,CITY,OWNER,-21.0,Sales tax for invoice #2022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/6/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2020 - CUST_0058
+SPL,nan,GENERAL JOURNAL,3/6/2024,Service Income,OWNER,-170.0,Payment for invoice #2020 - CUST_0058
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/6/2024,Income,OWNER,14.0,Sales tax for invoice #2020
+SPL,nan,GENERAL JOURNAL,3/6/2024,CITY,OWNER,-14.0,Sales tax for invoice #2020
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/6/2024,Accounts Receivable,OWNER,4155.0,Payment for invoice #2023 - CUST_0072
+SPL,nan,GENERAL JOURNAL,3/6/2024,Service Income,OWNER,-4155.0,Payment for invoice #2023 - CUST_0072
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/6/2024,Accounts Receivable,CUST_0072,4498.0,Invoice:2023
+SPL,nan,GENERAL JOURNAL,3/6/2024,Tax Payable,CUST_0072,-343.0,Invoice:2023
+SPL,nan,GENERAL JOURNAL,3/6/2024,Service Income,CUST_0072,-4155.0,Invoice:2023 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/6/2024,Income,OWNER,343.0,Sales tax for invoice #2023
+SPL,nan,GENERAL JOURNAL,3/6/2024,CITY,OWNER,-343.0,Sales tax for invoice #2023
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/9/2024,Accounts Receivable,OWNER,400.0,Payment for invoice #2024 - CUST_0001
+SPL,nan,GENERAL JOURNAL,3/9/2024,Service Income,OWNER,-400.0,Payment for invoice #2024 - CUST_0001
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Accounts Receivable,CUST_0001,433.0,Invoice:2024
+SPL,nan,GENERAL JOURNAL,3/19/2024,Tax Payable,CUST_0001,-33.0,Invoice:2024
+SPL,nan,GENERAL JOURNAL,3/19/2024,Service Income,CUST_0001,-400.0,Invoice:2024 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/9/2024,Income,OWNER,33.0,Sales tax for invoice #2024
+SPL,nan,GENERAL JOURNAL,3/9/2024,CITY,OWNER,-33.0,Sales tax for invoice #2024
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/10/2024,Accounts Receivable,OWNER,75.0,Payment for invoice #2026 - CUST_0051
+SPL,nan,GENERAL JOURNAL,3/10/2024,Service Income,OWNER,-75.0,Payment for invoice #2026 - CUST_0051
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/17/2024,Accounts Receivable,CUST_0051,81.0,Invoice:2026
+SPL,nan,GENERAL JOURNAL,3/17/2024,Tax Payable,CUST_0051,-6.0,Invoice:2026
+SPL,nan,GENERAL JOURNAL,3/17/2024,Service Income,CUST_0051,-75.0,Invoice:2026 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/10/2024,Income,OWNER,6.0,Sales tax for invoice #2026
+SPL,nan,GENERAL JOURNAL,3/10/2024,CITY,OWNER,-6.0,Sales tax for invoice #2026
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/13/2024,Accounts Receivable,OWNER,700.0,Payment for invoice #2025 - CUST_0131
+SPL,nan,GENERAL JOURNAL,3/13/2024,Service Income,OWNER,-700.0,Payment for invoice #2025 - CUST_0131
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/17/2024,Accounts Receivable,CUST_0131,700.0,Invoice:2025
+SPL,nan,GENERAL JOURNAL,3/17/2024,Service Income,CUST_0131,-700.0,Invoice:2025 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/13/2024,Income,OWNER,0.0,Sales tax for invoice #2025
+SPL,nan,GENERAL JOURNAL,3/13/2024,CITY,OWNER,0.0,Sales tax for invoice #2025
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2021 - CUST_0022
+SPL,nan,GENERAL JOURNAL,3/19/2024,Service Income,OWNER,-250.0,Payment for invoice #2021 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/12/2024,Accounts Receivable,CUST_0022,271.0,Invoice:2021
+SPL,nan,GENERAL JOURNAL,3/12/2024,Tax Payable,CUST_0022,-21.0,Invoice:2021
+SPL,nan,GENERAL JOURNAL,3/12/2024,Service Income,CUST_0022,-250.0,Invoice:2021 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Income,OWNER,21.0,Sales tax for invoice #2021
+SPL,nan,GENERAL JOURNAL,3/19/2024,CITY,OWNER,-21.0,Sales tax for invoice #2021
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2029 - CUST_0037
+SPL,nan,GENERAL JOURNAL,3/19/2024,Service Income,OWNER,-170.0,Payment for invoice #2029 - CUST_0037
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/25/2024,Accounts Receivable,CUST_0037,368.0,Invoice:2029
+SPL,nan,GENERAL JOURNAL,3/25/2024,Tax Payable,CUST_0037,-28.0,Invoice:2029
+SPL,nan,GENERAL JOURNAL,3/25/2024,Service Income,CUST_0037,-340.0,Invoice:2029 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Income,OWNER,14.0,Sales tax for invoice #2029
+SPL,nan,GENERAL JOURNAL,3/19/2024,CITY,OWNER,-14.0,Sales tax for invoice #2029
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Accounts Receivable,OWNER,870.0,Payment for invoice #2028 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,3/19/2024,Service Income,OWNER,-870.0,Payment for invoice #2028 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/23/2024,Accounts Receivable,CUST_0064,942.0,Invoice:2028
+SPL,nan,GENERAL JOURNAL,3/23/2024,Tax Payable,CUST_0064,-72.0,Invoice:2028
+SPL,nan,GENERAL JOURNAL,3/23/2024,Service Income,CUST_0064,-870.0,Invoice:2028 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Income,OWNER,72.0,Sales tax for invoice #2028
+SPL,nan,GENERAL JOURNAL,3/19/2024,CITY,OWNER,-72.0,Sales tax for invoice #2028
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/22/2024,Accounts Receivable,OWNER,535.0,Payment for invoice #2031 - CUST_0056
+SPL,nan,GENERAL JOURNAL,3/22/2024,Service Income,OWNER,-535.0,Payment for invoice #2031 - CUST_0056
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/25/2024,Accounts Receivable,CUST_0056,579.0,Invoice:2031
+SPL,nan,GENERAL JOURNAL,3/25/2024,Tax Payable,CUST_0056,-44.0,Invoice:2031
+SPL,nan,GENERAL JOURNAL,3/25/2024,Service Income,CUST_0056,-340.0,Invoice:2031 SERVICE
+SPL,nan,GENERAL JOURNAL,3/25/2024,Service Income,CUST_0056,-195.0,Invoice:2031 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/22/2024,Income,OWNER,44.0,Sales tax for invoice #2031
+SPL,nan,GENERAL JOURNAL,3/22/2024,CITY,OWNER,-44.0,Sales tax for invoice #2031
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/22/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2030 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,3/22/2024,Service Income,OWNER,-50.0,Payment for invoice #2030 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/30/2024,Accounts Receivable,CUST_0055,50.0,Invoice:2030
+SPL,nan,GENERAL JOURNAL,3/30/2024,Service Income,CUST_0055,-50.0,Invoice:2030 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/25/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2029 - CUST_0037
+SPL,nan,GENERAL JOURNAL,3/25/2024,Service Income,OWNER,-170.0,Payment for invoice #2029 - CUST_0037
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/25/2024,Income,OWNER,14.0,Sales tax for invoice #2029
+SPL,nan,GENERAL JOURNAL,3/25/2024,CITY,OWNER,-14.0,Sales tax for invoice #2029
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/26/2024,Accounts Receivable,OWNER,100.0,Payment for invoice #2032 - CUST_0056
+SPL,nan,GENERAL JOURNAL,3/26/2024,Service Income,OWNER,-100.0,Payment for invoice #2032 - CUST_0056
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/5/2024,Accounts Receivable,CUST_0056,108.0,Invoice:2032
+SPL,nan,GENERAL JOURNAL,4/5/2024,Tax Payable,CUST_0056,-8.0,Invoice:2032
+SPL,nan,GENERAL JOURNAL,4/5/2024,Service Income,CUST_0056,-100.0,Invoice:2032 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/26/2024,Income,OWNER,8.0,Sales tax for invoice #2032
+SPL,nan,GENERAL JOURNAL,3/26/2024,CITY,OWNER,-8.0,Sales tax for invoice #2032
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/27/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2027 - CUST_0022
+SPL,nan,GENERAL JOURNAL,3/27/2024,Service Income,OWNER,-125.0,Payment for invoice #2027 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/19/2024,Accounts Receivable,CUST_0022,135.0,Invoice:2027
+SPL,nan,GENERAL JOURNAL,3/19/2024,Tax Payable,CUST_0022,-10.0,Invoice:2027
+SPL,nan,GENERAL JOURNAL,3/19/2024,Service Income,CUST_0022,-125.0,Invoice:2027 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,3/27/2024,Income,OWNER,10.0,Sales tax for invoice #2027
+SPL,nan,GENERAL JOURNAL,3/27/2024,CITY,OWNER,-10.0,Sales tax for invoice #2027
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/3/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2033 - CUST_0120
+SPL,nan,GENERAL JOURNAL,4/3/2024,Service Income,OWNER,-90.0,Payment for invoice #2033 - CUST_0120
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Accounts Receivable,CUST_0120,97.0,Invoice:2033
+SPL,nan,GENERAL JOURNAL,4/11/2024,Tax Payable,CUST_0120,-7.0,Invoice:2033
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,CUST_0120,-90.0,Invoice:2033 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/3/2024,Income,OWNER,7.0,Sales tax for invoice #2033
+SPL,nan,GENERAL JOURNAL,4/3/2024,CITY,OWNER,-7.0,Sales tax for invoice #2033
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/3/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2034 - CUST_0049
+SPL,nan,GENERAL JOURNAL,4/3/2024,Service Income,OWNER,-90.0,Payment for invoice #2034 - CUST_0049
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Accounts Receivable,CUST_0049,97.0,Invoice:2034
+SPL,nan,GENERAL JOURNAL,4/11/2024,Tax Payable,CUST_0049,-7.0,Invoice:2034
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,CUST_0049,-90.0,Invoice:2034 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/3/2024,Income,OWNER,7.0,Sales tax for invoice #2034
+SPL,nan,GENERAL JOURNAL,4/3/2024,CITY,OWNER,-7.0,Sales tax for invoice #2034
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/3/2024,Accounts Receivable,OWNER,1025.0,Payment for invoice #2035 - CUST_0027
+SPL,nan,GENERAL JOURNAL,4/3/2024,Service Income,OWNER,-1025.0,Payment for invoice #2035 - CUST_0027
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Accounts Receivable,CUST_0027,1108.0,Invoice:2035
+SPL,nan,GENERAL JOURNAL,4/11/2024,Tax Payable,CUST_0027,-82.0,Invoice:2035
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,CUST_0027,-1000.0,Invoice:2035 SERVICE
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,CUST_0027,-25.0,Invoice:2035 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/3/2024,Income,OWNER,82.0,Sales tax for invoice #2035
+SPL,nan,GENERAL JOURNAL,4/3/2024,CITY,OWNER,-82.0,Sales tax for invoice #2035
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/4/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2036 - CUST_0026
+SPL,nan,GENERAL JOURNAL,4/4/2024,Service Income,OWNER,-170.0,Payment for invoice #2036 - CUST_0026
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Accounts Receivable,CUST_0026,368.0,Invoice:2036
+SPL,nan,GENERAL JOURNAL,4/30/2024,Tax Payable,CUST_0026,-28.0,Invoice:2036
+SPL,nan,GENERAL JOURNAL,4/30/2024,Service Income,CUST_0026,-340.0,Invoice:2036 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/4/2024,Income,OWNER,14.0,Sales tax for invoice #2036
+SPL,nan,GENERAL JOURNAL,4/4/2024,CITY,OWNER,-14.0,Sales tax for invoice #2036
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/8/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2037 - CUST_0088
+SPL,nan,GENERAL JOURNAL,4/8/2024,Service Income,OWNER,-90.0,Payment for invoice #2037 - CUST_0088
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Accounts Receivable,CUST_0088,97.0,Invoice:2037
+SPL,nan,GENERAL JOURNAL,4/11/2024,Tax Payable,CUST_0088,-7.0,Invoice:2037
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,CUST_0088,-90.0,Invoice:2037 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/8/2024,Income,OWNER,7.0,Sales tax for invoice #2037
+SPL,nan,GENERAL JOURNAL,4/8/2024,CITY,OWNER,-7.0,Sales tax for invoice #2037
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/10/2024,Accounts Receivable,OWNER,100.0,Tip for invoice #2039 - CUST_0069
+SPL,nan,GENERAL JOURNAL,4/10/2024,Uncategorized Income,OWNER,-100.0,Tip for invoice #2039 - CUST_0069
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/18/2024,Accounts Receivable,CUST_0069,2282.0,Invoice:2039
+SPL,nan,GENERAL JOURNAL,4/18/2024,Tax Payable,CUST_0069,-172.0,Invoice:2039
+SPL,nan,GENERAL JOURNAL,4/18/2024,Service Income,CUST_0069,-2085.0,Invoice:2039 SERVICE
+SPL,nan,GENERAL JOURNAL,4/18/2024,Service Income,CUST_0069,0.0,Invoice:2039 SERVICE
+SPL,nan,GENERAL JOURNAL,4/18/2024,Service Income,CUST_0069,-25.0,Invoice:2039 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/10/2024,Accounts Receivable,OWNER,2110.0,Payment for invoice #2039 - CUST_0069
+SPL,nan,GENERAL JOURNAL,4/10/2024,Service Income,OWNER,-2110.0,Payment for invoice #2039 - CUST_0069
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/10/2024,Income,OWNER,172.0,Sales tax for invoice #2039
+SPL,nan,GENERAL JOURNAL,4/10/2024,CITY,OWNER,-172.0,Sales tax for invoice #2039
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Accounts Receivable,OWNER,5175.0,Payment for invoice #2038 - CUST_0113
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,OWNER,-5175.0,Payment for invoice #2038 - CUST_0113
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/14/2024,Accounts Receivable,CUST_0113,5602.0,Invoice:2038
+SPL,nan,GENERAL JOURNAL,4/14/2024,Tax Payable,CUST_0113,-427.0,Invoice:2038
+SPL,nan,GENERAL JOURNAL,4/14/2024,Service Income,CUST_0113,-3445.0,Invoice:2038 SERVICE
+SPL,nan,GENERAL JOURNAL,4/14/2024,Service Income,CUST_0113,-1730.0,Invoice:2038 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Income,OWNER,427.0,Sales tax for invoice #2038
+SPL,nan,GENERAL JOURNAL,4/11/2024,CITY,OWNER,-427.0,Sales tax for invoice #2038
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2040 - CUST_0103
+SPL,nan,GENERAL JOURNAL,4/11/2024,Service Income,OWNER,-170.0,Payment for invoice #2040 - CUST_0103
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Accounts Receivable,CUST_0103,368.0,Invoice:2040
+SPL,nan,GENERAL JOURNAL,4/24/2024,Tax Payable,CUST_0103,-28.0,Invoice:2040
+SPL,nan,GENERAL JOURNAL,4/24/2024,Service Income,CUST_0103,-340.0,Invoice:2040 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/11/2024,Income,OWNER,14.0,Sales tax for invoice #2040
+SPL,nan,GENERAL JOURNAL,4/11/2024,CITY,OWNER,-14.0,Sales tax for invoice #2040
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/13/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2041 - CUST_0120
+SPL,nan,GENERAL JOURNAL,4/13/2024,Service Income,OWNER,-50.0,Payment for invoice #2041 - CUST_0120
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/23/2024,Accounts Receivable,CUST_0120,54.0,Invoice:2041
+SPL,nan,GENERAL JOURNAL,4/23/2024,Tax Payable,CUST_0120,-4.0,Invoice:2041
+SPL,nan,GENERAL JOURNAL,4/23/2024,Service Income,CUST_0120,-50.0,Invoice:2041 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/13/2024,Income,OWNER,4.0,Sales tax for invoice #2041
+SPL,nan,GENERAL JOURNAL,4/13/2024,CITY,OWNER,-4.0,Sales tax for invoice #2041
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/15/2024,Accounts Receivable,OWNER,195.0,Payment for invoice #2042 - CUST_0083
+SPL,nan,GENERAL JOURNAL,4/15/2024,Service Income,OWNER,-195.0,Payment for invoice #2042 - CUST_0083
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/23/2024,Accounts Receivable,CUST_0083,211.0,Invoice:2042
+SPL,nan,GENERAL JOURNAL,4/23/2024,Tax Payable,CUST_0083,-16.0,Invoice:2042
+SPL,nan,GENERAL JOURNAL,4/23/2024,Service Income,CUST_0083,-195.0,Invoice:2042 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/15/2024,Income,OWNER,16.0,Sales tax for invoice #2042
+SPL,nan,GENERAL JOURNAL,4/15/2024,CITY,OWNER,-16.0,Sales tax for invoice #2042
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/18/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2044 - CUST_0125
+SPL,nan,GENERAL JOURNAL,4/18/2024,Service Income,OWNER,-90.0,Payment for invoice #2044 - CUST_0125
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0125,97.0,Invoice:2044
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0125,-7.0,Invoice:2044
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0125,-90.0,Invoice:2044 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/18/2024,Income,OWNER,7.0,Sales tax for invoice #2044
+SPL,nan,GENERAL JOURNAL,4/18/2024,CITY,OWNER,-7.0,Sales tax for invoice #2044
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/20/2024,Accounts Receivable,OWNER,2065.0,Payment for invoice #2043 - CUST_0074
+SPL,nan,GENERAL JOURNAL,4/20/2024,Service Income,OWNER,-2065.0,Payment for invoice #2043 - CUST_0074
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/16/2024,Accounts Receivable,CUST_0074,2235.0,Invoice:2043
+SPL,nan,GENERAL JOURNAL,4/16/2024,Tax Payable,CUST_0074,-170.0,Invoice:2043
+SPL,nan,GENERAL JOURNAL,4/16/2024,Service Income,CUST_0074,-2065.0,Invoice:2043 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/20/2024,Income,OWNER,170.0,Sales tax for invoice #2043
+SPL,nan,GENERAL JOURNAL,4/20/2024,CITY,OWNER,-170.0,Sales tax for invoice #2043
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Accounts Receivable,OWNER,195.0,Payment for invoice #2046 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,4/22/2024,Service Income,OWNER,-195.0,Payment for invoice #2046 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/28/2024,Accounts Receivable,CUST_0085,211.0,Invoice:2046
+SPL,nan,GENERAL JOURNAL,4/28/2024,Tax Payable,CUST_0085,-16.0,Invoice:2046
+SPL,nan,GENERAL JOURNAL,4/28/2024,Service Income,CUST_0085,-195.0,Invoice:2046 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Income,OWNER,16.0,Sales tax for invoice #2046
+SPL,nan,GENERAL JOURNAL,4/22/2024,CITY,OWNER,-16.0,Sales tax for invoice #2046
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2047 - CUST_0062
+SPL,nan,GENERAL JOURNAL,4/22/2024,Service Income,OWNER,-90.0,Payment for invoice #2047 - CUST_0062
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0062,97.0,Invoice:2047
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0062,-7.0,Invoice:2047
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0062,-90.0,Invoice:2047 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Income,OWNER,7.0,Sales tax for invoice #2047
+SPL,nan,GENERAL JOURNAL,4/22/2024,CITY,OWNER,-7.0,Sales tax for invoice #2047
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2048 - CUST_0007
+SPL,nan,GENERAL JOURNAL,4/22/2024,Service Income,OWNER,-90.0,Payment for invoice #2048 - CUST_0007
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/10/2024,Accounts Receivable,CUST_0007,97.0,Invoice:2048
+SPL,nan,GENERAL JOURNAL,5/10/2024,Tax Payable,CUST_0007,-7.0,Invoice:2048
+SPL,nan,GENERAL JOURNAL,5/10/2024,Service Income,CUST_0007,-90.0,Invoice:2048 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Income,OWNER,7.0,Sales tax for invoice #2048
+SPL,nan,GENERAL JOURNAL,4/22/2024,CITY,OWNER,-7.0,Sales tax for invoice #2048
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2049 - CUST_0107
+SPL,nan,GENERAL JOURNAL,4/22/2024,Service Income,OWNER,-90.0,Payment for invoice #2049 - CUST_0107
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/16/2024,Accounts Receivable,CUST_0107,97.0,Invoice:2049
+SPL,nan,GENERAL JOURNAL,5/16/2024,Tax Payable,CUST_0107,-7.0,Invoice:2049
+SPL,nan,GENERAL JOURNAL,5/16/2024,Service Income,CUST_0107,-90.0,Invoice:2049 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Income,OWNER,7.0,Sales tax for invoice #2049
+SPL,nan,GENERAL JOURNAL,4/22/2024,CITY,OWNER,-7.0,Sales tax for invoice #2049
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2051 - CUST_0078
+SPL,nan,GENERAL JOURNAL,4/22/2024,Service Income,OWNER,-90.0,Payment for invoice #2051 - CUST_0078
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0078,97.0,Invoice:2051
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0078,-7.0,Invoice:2051
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0078,-90.0,Invoice:2051 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/22/2024,Income,OWNER,7.0,Sales tax for invoice #2051
+SPL,nan,GENERAL JOURNAL,4/22/2024,CITY,OWNER,-7.0,Sales tax for invoice #2051
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/23/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2050 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,4/23/2024,Service Income,OWNER,-50.0,Payment for invoice #2050 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/1/2024,Accounts Receivable,CUST_0055,50.0,Invoice:2050
+SPL,nan,GENERAL JOURNAL,5/1/2024,Service Income,CUST_0055,-50.0,Invoice:2050 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/23/2024,Income,OWNER,0.0,Sales tax for invoice #2050
+SPL,nan,GENERAL JOURNAL,4/23/2024,CITY,OWNER,0.0,Sales tax for invoice #2050
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/23/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2052 - CUST_0111
+SPL,nan,GENERAL JOURNAL,4/23/2024,Service Income,OWNER,-90.0,Payment for invoice #2052 - CUST_0111
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0111,97.0,Invoice:2052
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0111,-7.0,Invoice:2052
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0111,-90.0,Invoice:2052 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/23/2024,Income,OWNER,7.0,Sales tax for invoice #2052
+SPL,nan,GENERAL JOURNAL,4/23/2024,CITY,OWNER,-7.0,Sales tax for invoice #2052
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2053 - CUST_0129
+SPL,nan,GENERAL JOURNAL,4/24/2024,Service Income,OWNER,-90.0,Payment for invoice #2053 - CUST_0129
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0129,97.0,Invoice:2053
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0129,-7.0,Invoice:2053
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0129,-90.0,Invoice:2053 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Income,OWNER,7.0,Sales tax for invoice #2053
+SPL,nan,GENERAL JOURNAL,4/24/2024,CITY,OWNER,-7.0,Sales tax for invoice #2053
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2054 - CUST_0025
+SPL,nan,GENERAL JOURNAL,4/24/2024,Service Income,OWNER,-90.0,Payment for invoice #2054 - CUST_0025
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0025,97.0,Invoice:2054
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0025,-7.0,Invoice:2054
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0025,-90.0,Invoice:2054 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Income,OWNER,7.0,Sales tax for invoice #2054
+SPL,nan,GENERAL JOURNAL,4/24/2024,CITY,OWNER,-7.0,Sales tax for invoice #2054
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2055 - CUST_0066
+SPL,nan,GENERAL JOURNAL,4/24/2024,Service Income,OWNER,-90.0,Payment for invoice #2055 - CUST_0066
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0066,97.0,Invoice:2055
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0066,-7.0,Invoice:2055
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0066,-90.0,Invoice:2055 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/24/2024,Income,OWNER,7.0,Sales tax for invoice #2055
+SPL,nan,GENERAL JOURNAL,4/24/2024,CITY,OWNER,-7.0,Sales tax for invoice #2055
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/27/2024,Accounts Receivable,OWNER,1720.0,Payment for invoice #2058 - CUST_0077
+SPL,nan,GENERAL JOURNAL,4/27/2024,Service Income,OWNER,-1720.0,Payment for invoice #2058 - CUST_0077
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/1/2024,Accounts Receivable,CUST_0077,1862.0,Invoice:2058
+SPL,nan,GENERAL JOURNAL,5/1/2024,Tax Payable,CUST_0077,-142.0,Invoice:2058
+SPL,nan,GENERAL JOURNAL,5/1/2024,Service Income,CUST_0077,-1720.0,Invoice:2058 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/27/2024,Income,OWNER,142.0,Sales tax for invoice #2058
+SPL,nan,GENERAL JOURNAL,4/27/2024,CITY,OWNER,-142.0,Sales tax for invoice #2058
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/27/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2040 - CUST_0103
+SPL,nan,GENERAL JOURNAL,4/27/2024,Service Income,OWNER,-170.0,Payment for invoice #2040 - CUST_0103
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/27/2024,Income,OWNER,14.0,Sales tax for invoice #2040
+SPL,nan,GENERAL JOURNAL,4/27/2024,CITY,OWNER,-14.0,Sales tax for invoice #2040
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Accounts Receivable,OWNER,145.0,Payment for invoice #2045 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,4/30/2024,Service Income,OWNER,-145.0,Payment for invoice #2045 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/28/2024,Accounts Receivable,CUST_0061,157.0,Invoice:2045
+SPL,nan,GENERAL JOURNAL,4/28/2024,Tax Payable,CUST_0061,-12.0,Invoice:2045
+SPL,nan,GENERAL JOURNAL,4/28/2024,Service Income,CUST_0061,-145.0,Invoice:2045 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Income,OWNER,12.0,Sales tax for invoice #2045
+SPL,nan,GENERAL JOURNAL,4/30/2024,CITY,OWNER,-12.0,Sales tax for invoice #2045
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Accounts Receivable,OWNER,50.0,Tip for invoice #2061 - CUST_0013
+SPL,nan,GENERAL JOURNAL,4/29/2024,Uncategorized Income,OWNER,-50.0,Tip for invoice #2061 - CUST_0013
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/2/2024,Accounts Receivable,CUST_0013,363.0,Invoice:2061
+SPL,nan,GENERAL JOURNAL,5/2/2024,Tax Payable,CUST_0013,-28.0,Invoice:2061
+SPL,nan,GENERAL JOURNAL,5/2/2024,Service Income,CUST_0013,-240.0,Invoice:2061 SERVICE
+SPL,nan,GENERAL JOURNAL,5/2/2024,Service Income,CUST_0013,-95.0,Invoice:2061 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Accounts Receivable,OWNER,335.0,Payment for invoice #2061 - CUST_0013
+SPL,nan,GENERAL JOURNAL,4/29/2024,Service Income,OWNER,-335.0,Payment for invoice #2061 - CUST_0013
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Income,OWNER,28.0,Sales tax for invoice #2061
+SPL,nan,GENERAL JOURNAL,4/29/2024,CITY,OWNER,-28.0,Sales tax for invoice #2061
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2036 - CUST_0026
+SPL,nan,GENERAL JOURNAL,4/29/2024,Service Income,OWNER,-170.0,Payment for invoice #2036 - CUST_0026
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Income,OWNER,14.0,Sales tax for invoice #2036
+SPL,nan,GENERAL JOURNAL,4/29/2024,CITY,OWNER,-14.0,Sales tax for invoice #2036
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Accounts Receivable,OWNER,255.0,Payment for invoice #2060 - CUST_0103
+SPL,nan,GENERAL JOURNAL,4/29/2024,Service Income,OWNER,-255.0,Payment for invoice #2060 - CUST_0103
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/7/2024,Accounts Receivable,CUST_0103,276.0,Invoice:2060
+SPL,nan,GENERAL JOURNAL,5/7/2024,Tax Payable,CUST_0103,-21.0,Invoice:2060
+SPL,nan,GENERAL JOURNAL,5/7/2024,Service Income,CUST_0103,-255.0,Invoice:2060 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Income,OWNER,21.0,Sales tax for invoice #2060
+SPL,nan,GENERAL JOURNAL,4/29/2024,CITY,OWNER,-21.0,Sales tax for invoice #2060
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2062 - CUST_0114
+SPL,nan,GENERAL JOURNAL,4/29/2024,Service Income,OWNER,-90.0,Payment for invoice #2062 - CUST_0114
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0114,97.0,Invoice:2062
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0114,-7.0,Invoice:2062
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0114,-90.0,Invoice:2062 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/29/2024,Income,OWNER,7.0,Sales tax for invoice #2062
+SPL,nan,GENERAL JOURNAL,4/29/2024,CITY,OWNER,-7.0,Sales tax for invoice #2062
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2063 - CUST_0087
+SPL,nan,GENERAL JOURNAL,4/30/2024,Service Income,OWNER,-90.0,Payment for invoice #2063 - CUST_0087
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0087,97.0,Invoice:2063
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0087,-7.0,Invoice:2063
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0087,-90.0,Invoice:2063 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Income,OWNER,7.0,Sales tax for invoice #2063
+SPL,nan,GENERAL JOURNAL,4/30/2024,CITY,OWNER,-7.0,Sales tax for invoice #2063
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #2064 - CUST_0077
+SPL,nan,GENERAL JOURNAL,4/30/2024,Service Income,OWNER,-95.0,Payment for invoice #2064 - CUST_0077
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/9/2024,Accounts Receivable,CUST_0077,103.0,Invoice:2064
+SPL,nan,GENERAL JOURNAL,5/9/2024,Tax Payable,CUST_0077,-8.0,Invoice:2064
+SPL,nan,GENERAL JOURNAL,5/9/2024,Service Income,CUST_0077,-95.0,Invoice:2064 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Income,OWNER,8.0,Sales tax for invoice #2064
+SPL,nan,GENERAL JOURNAL,4/30/2024,CITY,OWNER,-8.0,Sales tax for invoice #2064
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Accounts Receivable,OWNER,647.0,Payment for invoice #2065 - CUST_0051
+SPL,nan,GENERAL JOURNAL,4/30/2024,Service Income,OWNER,-647.0,Payment for invoice #2065 - CUST_0051
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/4/2024,Accounts Receivable,CUST_0051,1737.0,Invoice:2065
+SPL,nan,GENERAL JOURNAL,5/4/2024,Tax Payable,CUST_0051,-132.0,Invoice:2065
+SPL,nan,GENERAL JOURNAL,5/4/2024,Service Income,CUST_0051,-1605.0,Invoice:2065 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,4/30/2024,Income,OWNER,53.0,Sales tax for invoice #2065
+SPL,nan,GENERAL JOURNAL,4/30/2024,CITY,OWNER,-53.0,Sales tax for invoice #2065
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/1/2024,Accounts Receivable,OWNER,958.0,Payment for invoice #2065 - CUST_0051
+SPL,nan,GENERAL JOURNAL,5/1/2024,Service Income,OWNER,-958.0,Payment for invoice #2065 - CUST_0051
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/1/2024,Income,OWNER,79.0,Sales tax for invoice #2065
+SPL,nan,GENERAL JOURNAL,5/1/2024,CITY,OWNER,-79.0,Sales tax for invoice #2065
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/7/2024,Accounts Receivable,OWNER,1065.0,Payment for invoice #2057 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,5/7/2024,Service Income,OWNER,-1065.0,Payment for invoice #2057 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/3/2024,Accounts Receivable,CUST_0113,1153.0,Invoice:2057
+SPL,nan,GENERAL JOURNAL,5/3/2024,Tax Payable,CUST_0113,-88.0,Invoice:2057
+SPL,nan,GENERAL JOURNAL,5/3/2024,Service Income,CUST_0113,-1065.0,Invoice:2057 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/7/2024,Income,OWNER,88.0,Sales tax for invoice #2057
+SPL,nan,GENERAL JOURNAL,5/7/2024,CITY,OWNER,-88.0,Sales tax for invoice #2057
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/7/2024,Accounts Receivable,OWNER,25.0,Tip for invoice #2067 - CUST_0013
+SPL,nan,GENERAL JOURNAL,5/7/2024,Uncategorized Income,OWNER,-25.0,Tip for invoice #2067 - CUST_0013
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/16/2024,Accounts Receivable,CUST_0013,206.0,Invoice:2067
+SPL,nan,GENERAL JOURNAL,5/16/2024,Tax Payable,CUST_0013,-16.0,Invoice:2067
+SPL,nan,GENERAL JOURNAL,5/16/2024,Service Income,CUST_0013,-190.0,Invoice:2067 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/7/2024,Accounts Receivable,OWNER,190.0,Payment for invoice #2067 - CUST_0013
+SPL,nan,GENERAL JOURNAL,5/7/2024,Service Income,OWNER,-190.0,Payment for invoice #2067 - CUST_0013
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/7/2024,Income,OWNER,16.0,Sales tax for invoice #2067
+SPL,nan,GENERAL JOURNAL,5/7/2024,CITY,OWNER,-16.0,Sales tax for invoice #2067
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/10/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2069 - CUST_0087
+SPL,nan,GENERAL JOURNAL,5/10/2024,Service Income,OWNER,-50.0,Payment for invoice #2069 - CUST_0087
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Accounts Receivable,CUST_0087,54.0,Invoice:2069
+SPL,nan,GENERAL JOURNAL,5/20/2024,Tax Payable,CUST_0087,-4.0,Invoice:2069
+SPL,nan,GENERAL JOURNAL,5/20/2024,Service Income,CUST_0087,-50.0,Invoice:2069 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/10/2024,Income,OWNER,4.0,Sales tax for invoice #2069
+SPL,nan,GENERAL JOURNAL,5/10/2024,CITY,OWNER,-4.0,Sales tax for invoice #2069
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/11/2024,Accounts Receivable,OWNER,3595.0,Payment for invoice #2070 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,5/11/2024,Service Income,OWNER,-3595.0,Payment for invoice #2070 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/19/2024,Accounts Receivable,CUST_0086,3892.0,Invoice:2070
+SPL,nan,GENERAL JOURNAL,5/19/2024,Tax Payable,CUST_0086,-297.0,Invoice:2070
+SPL,nan,GENERAL JOURNAL,5/19/2024,Service Income,CUST_0086,-3595.0,Invoice:2070 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/11/2024,Income,OWNER,297.0,Sales tax for invoice #2070
+SPL,nan,GENERAL JOURNAL,5/11/2024,CITY,OWNER,-297.0,Sales tax for invoice #2070
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/11/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2074 - CUST_0052
+SPL,nan,GENERAL JOURNAL,5/11/2024,Service Income,OWNER,-170.0,Payment for invoice #2074 - CUST_0052
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/15/2024,Accounts Receivable,CUST_0052,368.0,Invoice:2074
+SPL,nan,GENERAL JOURNAL,5/15/2024,Tax Payable,CUST_0052,-28.0,Invoice:2074
+SPL,nan,GENERAL JOURNAL,5/15/2024,Service Income,CUST_0052,-340.0,Invoice:2074 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/11/2024,Income,OWNER,14.0,Sales tax for invoice #2074
+SPL,nan,GENERAL JOURNAL,5/11/2024,CITY,OWNER,-14.0,Sales tax for invoice #2074
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/12/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2072 - CUST_0078
+SPL,nan,GENERAL JOURNAL,5/12/2024,Service Income,OWNER,-250.0,Payment for invoice #2072 - CUST_0078
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0078,271.0,Invoice:2072
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0078,-21.0,Invoice:2072
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0078,-250.0,Invoice:2072 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/12/2024,Income,OWNER,21.0,Sales tax for invoice #2072
+SPL,nan,GENERAL JOURNAL,5/12/2024,CITY,OWNER,-21.0,Sales tax for invoice #2072
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/12/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2075 - CUST_0111
+SPL,nan,GENERAL JOURNAL,5/12/2024,Service Income,OWNER,-50.0,Payment for invoice #2075 - CUST_0111
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0111,54.0,Invoice:2075
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0111,-4.0,Invoice:2075
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0111,-50.0,Invoice:2075 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/12/2024,Income,OWNER,4.0,Sales tax for invoice #2075
+SPL,nan,GENERAL JOURNAL,5/12/2024,CITY,OWNER,-4.0,Sales tax for invoice #2075
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/13/2024,Accounts Receivable,OWNER,100.0,Payment for invoice #2073 - CUST_0065
+SPL,nan,GENERAL JOURNAL,5/13/2024,Service Income,OWNER,-100.0,Payment for invoice #2073 - CUST_0065
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0065,108.0,Invoice:2073
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0065,-8.0,Invoice:2073
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0065,-100.0,Invoice:2073 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/13/2024,Income,OWNER,8.0,Sales tax for invoice #2073
+SPL,nan,GENERAL JOURNAL,5/13/2024,CITY,OWNER,-8.0,Sales tax for invoice #2073
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/13/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2071 - CUST_0065
+SPL,nan,GENERAL JOURNAL,5/13/2024,Service Income,OWNER,-90.0,Payment for invoice #2071 - CUST_0065
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0065,97.0,Invoice:2071
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0065,-7.0,Invoice:2071
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0065,-90.0,Invoice:2071 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/13/2024,Income,OWNER,7.0,Sales tax for invoice #2071
+SPL,nan,GENERAL JOURNAL,5/13/2024,CITY,OWNER,-7.0,Sales tax for invoice #2071
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/14/2024,Accounts Receivable,OWNER,285.0,Payment for invoice #2076 - CUST_0026
+SPL,nan,GENERAL JOURNAL,5/14/2024,Service Income,OWNER,-285.0,Payment for invoice #2076 - CUST_0026
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/23/2024,Accounts Receivable,CUST_0026,309.0,Invoice:2076
+SPL,nan,GENERAL JOURNAL,5/23/2024,Tax Payable,CUST_0026,-24.0,Invoice:2076
+SPL,nan,GENERAL JOURNAL,5/23/2024,Service Income,CUST_0026,-285.0,Invoice:2076 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/14/2024,Income,OWNER,24.0,Sales tax for invoice #2076
+SPL,nan,GENERAL JOURNAL,5/14/2024,CITY,OWNER,-24.0,Sales tax for invoice #2076
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/15/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2077 - CUST_0122
+SPL,nan,GENERAL JOURNAL,5/15/2024,Service Income,OWNER,-90.0,Payment for invoice #2077 - CUST_0122
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0122,97.0,Invoice:2077
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0122,-7.0,Invoice:2077
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0122,-90.0,Invoice:2077 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/15/2024,Income,OWNER,7.0,Sales tax for invoice #2077
+SPL,nan,GENERAL JOURNAL,5/15/2024,CITY,OWNER,-7.0,Sales tax for invoice #2077
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/15/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2078 - CUST_0130
+SPL,nan,GENERAL JOURNAL,5/15/2024,Service Income,OWNER,-90.0,Payment for invoice #2078 - CUST_0130
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0130,97.0,Invoice:2078
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0130,-7.0,Invoice:2078
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0130,-90.0,Invoice:2078 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/15/2024,Income,OWNER,7.0,Sales tax for invoice #2078
+SPL,nan,GENERAL JOURNAL,5/15/2024,CITY,OWNER,-7.0,Sales tax for invoice #2078
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/16/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2079 - CUST_0082
+SPL,nan,GENERAL JOURNAL,5/16/2024,Service Income,OWNER,-90.0,Payment for invoice #2079 - CUST_0082
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0082,97.0,Invoice:2079
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0082,-7.0,Invoice:2079
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0082,-90.0,Invoice:2079 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/16/2024,Income,OWNER,7.0,Sales tax for invoice #2079
+SPL,nan,GENERAL JOURNAL,5/16/2024,CITY,OWNER,-7.0,Sales tax for invoice #2079
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/16/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2080 - CUST_0106
+SPL,nan,GENERAL JOURNAL,5/16/2024,Service Income,OWNER,-90.0,Payment for invoice #2080 - CUST_0106
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0106,97.0,Invoice:2080
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0106,-7.0,Invoice:2080
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0106,-90.0,Invoice:2080 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/16/2024,Income,OWNER,7.0,Sales tax for invoice #2080
+SPL,nan,GENERAL JOURNAL,5/16/2024,CITY,OWNER,-7.0,Sales tax for invoice #2080
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/17/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2082 - CUST_0016
+SPL,nan,GENERAL JOURNAL,5/17/2024,Service Income,OWNER,-50.0,Payment for invoice #2082 - CUST_0016
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/27/2024,Accounts Receivable,CUST_0016,54.0,Invoice:2082
+SPL,nan,GENERAL JOURNAL,5/27/2024,Tax Payable,CUST_0016,-4.0,Invoice:2082
+SPL,nan,GENERAL JOURNAL,5/27/2024,Service Income,CUST_0016,-50.0,Invoice:2082 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/17/2024,Income,OWNER,4.0,Sales tax for invoice #2082
+SPL,nan,GENERAL JOURNAL,5/17/2024,CITY,OWNER,-4.0,Sales tax for invoice #2082
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2074 - CUST_0052
+SPL,nan,GENERAL JOURNAL,5/20/2024,Service Income,OWNER,-170.0,Payment for invoice #2074 - CUST_0052
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Income,OWNER,14.0,Sales tax for invoice #2074
+SPL,nan,GENERAL JOURNAL,5/20/2024,CITY,OWNER,-14.0,Sales tax for invoice #2074
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2083 - CUST_0107
+SPL,nan,GENERAL JOURNAL,5/20/2024,Service Income,OWNER,-50.0,Payment for invoice #2083 - CUST_0107
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/27/2024,Accounts Receivable,CUST_0107,54.0,Invoice:2083
+SPL,nan,GENERAL JOURNAL,5/27/2024,Tax Payable,CUST_0107,-4.0,Invoice:2083
+SPL,nan,GENERAL JOURNAL,5/27/2024,Service Income,CUST_0107,-50.0,Invoice:2083 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Income,OWNER,4.0,Sales tax for invoice #2083
+SPL,nan,GENERAL JOURNAL,5/20/2024,CITY,OWNER,-4.0,Sales tax for invoice #2083
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Accounts Receivable,OWNER,395.0,Payment for invoice #2084 - CUST_0020
+SPL,nan,GENERAL JOURNAL,5/20/2024,Service Income,OWNER,-395.0,Payment for invoice #2084 - CUST_0020
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/28/2024,Accounts Receivable,CUST_0020,428.0,Invoice:2084
+SPL,nan,GENERAL JOURNAL,5/28/2024,Tax Payable,CUST_0020,-33.0,Invoice:2084
+SPL,nan,GENERAL JOURNAL,5/28/2024,Service Income,CUST_0020,-395.0,Invoice:2084 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Income,OWNER,33.0,Sales tax for invoice #2084
+SPL,nan,GENERAL JOURNAL,5/20/2024,CITY,OWNER,-33.0,Sales tax for invoice #2084
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2085 - CUST_0075
+SPL,nan,GENERAL JOURNAL,5/20/2024,Service Income,OWNER,-90.0,Payment for invoice #2085 - CUST_0075
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/21/2024,Accounts Receivable,CUST_0075,97.0,Invoice:2085
+SPL,nan,GENERAL JOURNAL,5/21/2024,Tax Payable,CUST_0075,-7.0,Invoice:2085
+SPL,nan,GENERAL JOURNAL,5/21/2024,Service Income,CUST_0075,-90.0,Invoice:2085 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/20/2024,Income,OWNER,7.0,Sales tax for invoice #2085
+SPL,nan,GENERAL JOURNAL,5/20/2024,CITY,OWNER,-7.0,Sales tax for invoice #2085
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/22/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2066 - CUST_0022
+SPL,nan,GENERAL JOURNAL,5/22/2024,Service Income,OWNER,-125.0,Payment for invoice #2066 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/11/2024,Accounts Receivable,CUST_0022,135.0,Invoice:2066
+SPL,nan,GENERAL JOURNAL,5/11/2024,Tax Payable,CUST_0022,-10.0,Invoice:2066
+SPL,nan,GENERAL JOURNAL,5/11/2024,Service Income,CUST_0022,-125.0,Invoice:2066 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/22/2024,Income,OWNER,10.0,Sales tax for invoice #2066
+SPL,nan,GENERAL JOURNAL,5/22/2024,CITY,OWNER,-10.0,Sales tax for invoice #2066
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/23/2024,Accounts Receivable,OWNER,180.0,Payment for invoice #2087 - CUST_0032
+SPL,nan,GENERAL JOURNAL,5/23/2024,Sales,OWNER,-180.0,Payment for invoice #2087 - CUST_0032
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/30/2024,Accounts Receivable,CUST_0032,390.0,Invoice:2087
+SPL,nan,GENERAL JOURNAL,5/30/2024,Tax Payable,CUST_0032,-30.0,Invoice:2087
+SPL,nan,GENERAL JOURNAL,5/30/2024,Sales,CUST_0032,-180.0,Invoice:2087 SERVICE
+SPL,nan,GENERAL JOURNAL,5/30/2024,Service Income,CUST_0032,-180.0,Invoice:2087 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/23/2024,Accounts Receivable,OWNER,180.0,Payment for invoice #2087 - CUST_0032
+SPL,nan,GENERAL JOURNAL,5/23/2024,Service Income,OWNER,-180.0,Payment for invoice #2087 - CUST_0032
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/23/2024,Income,OWNER,30.0,Sales tax for invoice #2087
+SPL,nan,GENERAL JOURNAL,5/23/2024,CITY,OWNER,-30.0,Sales tax for invoice #2087
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/29/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2081 - CUST_0022
+SPL,nan,GENERAL JOURNAL,5/29/2024,Service Income,OWNER,-125.0,Payment for invoice #2081 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/26/2024,Accounts Receivable,CUST_0022,135.0,Invoice:2081
+SPL,nan,GENERAL JOURNAL,5/26/2024,Tax Payable,CUST_0022,-10.0,Invoice:2081
+SPL,nan,GENERAL JOURNAL,5/26/2024,Service Income,CUST_0022,-125.0,Invoice:2081 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/29/2024,Income,OWNER,10.0,Sales tax for invoice #2081
+SPL,nan,GENERAL JOURNAL,5/29/2024,CITY,OWNER,-10.0,Sales tax for invoice #2081
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/30/2024,Accounts Receivable,OWNER,900.0,Payment for invoice #2088 - CUST_0021
+SPL,nan,GENERAL JOURNAL,5/30/2024,Service Income,OWNER,-900.0,Payment for invoice #2088 - CUST_0021
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/7/2024,Accounts Receivable,CUST_0021,900.0,Invoice:2088
+SPL,nan,GENERAL JOURNAL,6/7/2024,Service Income,CUST_0021,-900.0,Invoice:2088 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/4/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2086 - CUST_0022
+SPL,nan,GENERAL JOURNAL,6/4/2024,Service Income,OWNER,-125.0,Payment for invoice #2086 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,5/31/2024,Accounts Receivable,CUST_0022,135.0,Invoice:2086
+SPL,nan,GENERAL JOURNAL,5/31/2024,Tax Payable,CUST_0022,-10.0,Invoice:2086
+SPL,nan,GENERAL JOURNAL,5/31/2024,Service Income,CUST_0022,-125.0,Invoice:2086 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/4/2024,Income,OWNER,10.0,Sales tax for invoice #2086
+SPL,nan,GENERAL JOURNAL,6/4/2024,CITY,OWNER,-10.0,Sales tax for invoice #2086
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/12/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2089 - CUST_0123
+SPL,nan,GENERAL JOURNAL,6/12/2024,Service Income,OWNER,-90.0,Payment for invoice #2089 - CUST_0123
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/28/2024,Accounts Receivable,CUST_0123,97.0,Invoice:2089
+SPL,nan,GENERAL JOURNAL,6/28/2024,Tax Payable,CUST_0123,-7.0,Invoice:2089
+SPL,nan,GENERAL JOURNAL,6/28/2024,Service Income,CUST_0123,-90.0,Invoice:2089 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/12/2024,Income,OWNER,7.0,Sales tax for invoice #2089
+SPL,nan,GENERAL JOURNAL,6/12/2024,CITY,OWNER,-7.0,Sales tax for invoice #2089
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/13/2024,Accounts Receivable,OWNER,270.0,Payment for invoice #2092 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,6/13/2024,Service Income,OWNER,-270.0,Payment for invoice #2092 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/21/2024,Accounts Receivable,CUST_0086,292.0,Invoice:2092
+SPL,nan,GENERAL JOURNAL,6/21/2024,Tax Payable,CUST_0086,-22.0,Invoice:2092
+SPL,nan,GENERAL JOURNAL,6/21/2024,Service Income,CUST_0086,-270.0,Invoice:2092 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/13/2024,Income,OWNER,22.0,Sales tax for invoice #2092
+SPL,nan,GENERAL JOURNAL,6/13/2024,CITY,OWNER,-22.0,Sales tax for invoice #2092
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/13/2024,Accounts Receivable,OWNER,145.0,Payment for invoice #2090 - CUST_0134
+SPL,nan,GENERAL JOURNAL,6/13/2024,Service Income,OWNER,-145.0,Payment for invoice #2090 - CUST_0134
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/14/2024,Accounts Receivable,CUST_0134,157.0,Invoice:2090
+SPL,nan,GENERAL JOURNAL,6/14/2024,Tax Payable,CUST_0134,-12.0,Invoice:2090
+SPL,nan,GENERAL JOURNAL,6/14/2024,Service Income,CUST_0134,-145.0,Invoice:2090 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/13/2024,Income,OWNER,12.0,Sales tax for invoice #2090
+SPL,nan,GENERAL JOURNAL,6/13/2024,CITY,OWNER,-12.0,Sales tax for invoice #2090
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/18/2024,Accounts Receivable,OWNER,340.0,Payment for invoice #2095 - CUST_0108
+SPL,nan,GENERAL JOURNAL,6/18/2024,Service Income,OWNER,-340.0,Payment for invoice #2095 - CUST_0108
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/21/2024,Accounts Receivable,CUST_0108,368.0,Invoice:2095
+SPL,nan,GENERAL JOURNAL,6/21/2024,Tax Payable,CUST_0108,-28.0,Invoice:2095
+SPL,nan,GENERAL JOURNAL,6/21/2024,Service Income,CUST_0108,-145.0,Invoice:2095 SERVICE
+SPL,nan,GENERAL JOURNAL,6/21/2024,Service Income,CUST_0108,-195.0,Invoice:2095 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/18/2024,Income,OWNER,28.0,Sales tax for invoice #2095
+SPL,nan,GENERAL JOURNAL,6/18/2024,CITY,OWNER,-28.0,Sales tax for invoice #2095
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/20/2024,Accounts Receivable,OWNER,360.0,Payment for invoice #2096 - CUST_0012
+SPL,nan,GENERAL JOURNAL,6/20/2024,Service Income,OWNER,-360.0,Payment for invoice #2096 - CUST_0012
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/30/2024,Accounts Receivable,CUST_0012,390.0,Invoice:2096
+SPL,nan,GENERAL JOURNAL,6/30/2024,Tax Payable,CUST_0012,-30.0,Invoice:2096
+SPL,nan,GENERAL JOURNAL,6/30/2024,Service Income,CUST_0012,-360.0,Invoice:2096 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/20/2024,Income,OWNER,30.0,Sales tax for invoice #2096
+SPL,nan,GENERAL JOURNAL,6/20/2024,CITY,OWNER,-30.0,Sales tax for invoice #2096
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/25/2024,Accounts Receivable,OWNER,145.0,Payment for invoice #2094 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,6/25/2024,Service Income,OWNER,-145.0,Payment for invoice #2094 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/23/2024,Accounts Receivable,CUST_0081,157.0,Invoice:2094
+SPL,nan,GENERAL JOURNAL,6/23/2024,Tax Payable,CUST_0081,-12.0,Invoice:2094
+SPL,nan,GENERAL JOURNAL,6/23/2024,Service Income,CUST_0081,-145.0,Invoice:2094 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/25/2024,Income,OWNER,12.0,Sales tax for invoice #2094
+SPL,nan,GENERAL JOURNAL,6/25/2024,CITY,OWNER,-12.0,Sales tax for invoice #2094
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/27/2024,Accounts Receivable,OWNER,695.0,Payment for invoice #2091 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,6/27/2024,Service Income,OWNER,-695.0,Payment for invoice #2091 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/21/2024,Accounts Receivable,CUST_0067,752.0,Invoice:2091
+SPL,nan,GENERAL JOURNAL,6/21/2024,Tax Payable,CUST_0067,-57.0,Invoice:2091
+SPL,nan,GENERAL JOURNAL,6/21/2024,Service Income,CUST_0067,-695.0,Invoice:2091 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/27/2024,Income,OWNER,57.0,Sales tax for invoice #2091
+SPL,nan,GENERAL JOURNAL,6/27/2024,CITY,OWNER,-57.0,Sales tax for invoice #2091
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/26/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2097 - CUST_0094
+SPL,nan,GENERAL JOURNAL,6/26/2024,Service Income,OWNER,-90.0,Payment for invoice #2097 - CUST_0094
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/9/2024,Accounts Receivable,CUST_0094,97.0,Invoice:2097
+SPL,nan,GENERAL JOURNAL,7/9/2024,Tax Payable,CUST_0094,-7.0,Invoice:2097
+SPL,nan,GENERAL JOURNAL,7/9/2024,Service Income,CUST_0094,-90.0,Invoice:2097 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/26/2024,Income,OWNER,7.0,Sales tax for invoice #2097
+SPL,nan,GENERAL JOURNAL,6/26/2024,CITY,OWNER,-7.0,Sales tax for invoice #2097
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/26/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2098 - CUST_0073
+SPL,nan,GENERAL JOURNAL,6/26/2024,Service Income,OWNER,-90.0,Payment for invoice #2098 - CUST_0073
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/28/2024,Accounts Receivable,CUST_0073,97.0,Invoice:2098
+SPL,nan,GENERAL JOURNAL,6/28/2024,Tax Payable,CUST_0073,-7.0,Invoice:2098
+SPL,nan,GENERAL JOURNAL,6/28/2024,Service Income,CUST_0073,-90.0,Invoice:2098 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/26/2024,Income,OWNER,7.0,Sales tax for invoice #2098
+SPL,nan,GENERAL JOURNAL,6/26/2024,CITY,OWNER,-7.0,Sales tax for invoice #2098
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/27/2024,Accounts Receivable,OWNER,195.0,Payment for invoice #2099 - CUST_0108
+SPL,nan,GENERAL JOURNAL,6/27/2024,Service Income,OWNER,-195.0,Payment for invoice #2099 - CUST_0108
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/7/2024,Accounts Receivable,CUST_0108,211.0,Invoice:2099
+SPL,nan,GENERAL JOURNAL,7/7/2024,Tax Payable,CUST_0108,-16.0,Invoice:2099
+SPL,nan,GENERAL JOURNAL,7/7/2024,Service Income,CUST_0108,-195.0,Invoice:2099 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/27/2024,Income,OWNER,16.0,Sales tax for invoice #2099
+SPL,nan,GENERAL JOURNAL,6/27/2024,CITY,OWNER,-16.0,Sales tax for invoice #2099
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/29/2024,Accounts Receivable,OWNER,145.0,Payment for invoice #2100 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,6/29/2024,Service Income,OWNER,-145.0,Payment for invoice #2100 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/7/2024,Accounts Receivable,CUST_0081,157.0,Invoice:2100
+SPL,nan,GENERAL JOURNAL,7/7/2024,Tax Payable,CUST_0081,-12.0,Invoice:2100
+SPL,nan,GENERAL JOURNAL,7/7/2024,Service Income,CUST_0081,-145.0,Invoice:2100 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,6/29/2024,Income,OWNER,12.0,Sales tax for invoice #2100
+SPL,nan,GENERAL JOURNAL,6/29/2024,CITY,OWNER,-12.0,Sales tax for invoice #2100
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/2/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2101 - CUST_0126
+SPL,nan,GENERAL JOURNAL,7/2/2024,Service Income,OWNER,-90.0,Payment for invoice #2101 - CUST_0126
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/9/2024,Accounts Receivable,CUST_0126,97.0,Invoice:2101
+SPL,nan,GENERAL JOURNAL,7/9/2024,Tax Payable,CUST_0126,-7.0,Invoice:2101
+SPL,nan,GENERAL JOURNAL,7/9/2024,Service Income,CUST_0126,-90.0,Invoice:2101 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/2/2024,Income,OWNER,7.0,Sales tax for invoice #2101
+SPL,nan,GENERAL JOURNAL,7/2/2024,CITY,OWNER,-7.0,Sales tax for invoice #2101
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/3/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2102 - CUST_0132
+SPL,nan,GENERAL JOURNAL,7/3/2024,Service Income,OWNER,-155.0,Payment for invoice #2102 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/3/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2102
+SPL,nan,GENERAL JOURNAL,7/3/2024,Tax Payable,CUST_0132,-13.0,Invoice:2102
+SPL,nan,GENERAL JOURNAL,7/3/2024,Service Income,CUST_0132,-155.0,Invoice:2102 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/3/2024,Income,OWNER,13.0,Sales tax for invoice #2102
+SPL,nan,GENERAL JOURNAL,7/3/2024,CITY,OWNER,-13.0,Sales tax for invoice #2102
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/6/2024,Accounts Receivable,OWNER,340.0,Payment for invoice #2103 - CUST_0026
+SPL,nan,GENERAL JOURNAL,7/6/2024,Service Income,OWNER,-340.0,Payment for invoice #2103 - CUST_0026
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/9/2024,Accounts Receivable,CUST_0026,368.0,Invoice:2103
+SPL,nan,GENERAL JOURNAL,7/9/2024,Tax Payable,CUST_0026,-28.0,Invoice:2103
+SPL,nan,GENERAL JOURNAL,7/9/2024,Service Income,CUST_0026,-145.0,Invoice:2103 SERVICE
+SPL,nan,GENERAL JOURNAL,7/9/2024,Service Income,CUST_0026,-195.0,Invoice:2103 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/6/2024,Income,OWNER,28.0,Sales tax for invoice #2103
+SPL,nan,GENERAL JOURNAL,7/6/2024,CITY,OWNER,-28.0,Sales tax for invoice #2103
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/8/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2104 - CUST_0059
+SPL,nan,GENERAL JOURNAL,7/8/2024,Service Income,OWNER,-90.0,Payment for invoice #2104 - CUST_0059
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/9/2024,Accounts Receivable,CUST_0059,97.0,Invoice:2104
+SPL,nan,GENERAL JOURNAL,7/9/2024,Tax Payable,CUST_0059,-7.0,Invoice:2104
+SPL,nan,GENERAL JOURNAL,7/9/2024,Service Income,CUST_0059,-90.0,Invoice:2104 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/8/2024,Income,OWNER,7.0,Sales tax for invoice #2104
+SPL,nan,GENERAL JOURNAL,7/8/2024,CITY,OWNER,-7.0,Sales tax for invoice #2104
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/11/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2105 - CUST_0059
+SPL,nan,GENERAL JOURNAL,7/11/2024,Service Income,OWNER,-50.0,Payment for invoice #2105 - CUST_0059
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/21/2024,Accounts Receivable,CUST_0059,54.0,Invoice:2105
+SPL,nan,GENERAL JOURNAL,7/21/2024,Tax Payable,CUST_0059,-4.0,Invoice:2105
+SPL,nan,GENERAL JOURNAL,7/21/2024,Service Income,CUST_0059,-50.0,Invoice:2105 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/11/2024,Income,OWNER,4.0,Sales tax for invoice #2105
+SPL,nan,GENERAL JOURNAL,7/11/2024,CITY,OWNER,-4.0,Sales tax for invoice #2105
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/12/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2106 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,7/12/2024,Service Income,OWNER,-50.0,Payment for invoice #2106 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/20/2024,Accounts Receivable,CUST_0055,50.0,Invoice:2106
+SPL,nan,GENERAL JOURNAL,7/20/2024,Service Income,CUST_0055,-50.0,Invoice:2106 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/15/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2093 - CUST_0077
+SPL,nan,GENERAL JOURNAL,7/15/2024,Service Income,OWNER,-90.0,Payment for invoice #2093 - CUST_0077
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/16/2024,Accounts Receivable,CUST_0077,97.0,Invoice:2093
+SPL,nan,GENERAL JOURNAL,7/16/2024,Tax Payable,CUST_0077,-7.0,Invoice:2093
+SPL,nan,GENERAL JOURNAL,7/16/2024,Service Income,CUST_0077,-45.0,Invoice:2093 SERVICE
+SPL,nan,GENERAL JOURNAL,7/16/2024,Service Income,CUST_0077,-45.0,Invoice:2093 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/15/2024,Income,OWNER,7.0,Sales tax for invoice #2093
+SPL,nan,GENERAL JOURNAL,7/15/2024,CITY,OWNER,-7.0,Sales tax for invoice #2093
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/15/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2108 - CUST_0002
+SPL,nan,GENERAL JOURNAL,7/15/2024,Service Income,OWNER,-50.0,Payment for invoice #2108 - CUST_0002
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/23/2024,Accounts Receivable,CUST_0002,54.0,Invoice:2108
+SPL,nan,GENERAL JOURNAL,7/23/2024,Tax Payable,CUST_0002,-4.0,Invoice:2108
+SPL,nan,GENERAL JOURNAL,7/23/2024,Service Income,CUST_0002,-50.0,Invoice:2108 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/15/2024,Income,OWNER,4.0,Sales tax for invoice #2108
+SPL,nan,GENERAL JOURNAL,7/15/2024,CITY,OWNER,-4.0,Sales tax for invoice #2108
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/17/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2109 - CUST_0098
+SPL,nan,GENERAL JOURNAL,7/17/2024,Service Income,OWNER,-170.0,Payment for invoice #2109 - CUST_0098
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Accounts Receivable,CUST_0098,368.0,Invoice:2109
+SPL,nan,GENERAL JOURNAL,7/19/2024,Tax Payable,CUST_0098,-28.0,Invoice:2109
+SPL,nan,GENERAL JOURNAL,7/19/2024,Service Income,CUST_0098,-340.0,Invoice:2109 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/17/2024,Income,OWNER,14.0,Sales tax for invoice #2109
+SPL,nan,GENERAL JOURNAL,7/17/2024,CITY,OWNER,-14.0,Sales tax for invoice #2109
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Accounts Receivable,OWNER,2445.0,Payment for invoice #2107 - CUST_0092
+SPL,nan,GENERAL JOURNAL,7/19/2024,Service Income,OWNER,-2445.0,Payment for invoice #2107 - CUST_0092
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/15/2024,Accounts Receivable,CUST_0092,2647.0,Invoice:2107
+SPL,nan,GENERAL JOURNAL,7/15/2024,Tax Payable,CUST_0092,-202.0,Invoice:2107
+SPL,nan,GENERAL JOURNAL,7/15/2024,Service Income,CUST_0092,-2445.0,Invoice:2107 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Income,OWNER,202.0,Sales tax for invoice #2107
+SPL,nan,GENERAL JOURNAL,7/19/2024,CITY,OWNER,-202.0,Sales tax for invoice #2107
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Accounts Receivable,OWNER,58.0,Payment for invoice #2111 - CUST_0093
+SPL,nan,GENERAL JOURNAL,7/19/2024,Service Income,OWNER,-58.0,Payment for invoice #2111 - CUST_0093
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/1/2024,Accounts Receivable,CUST_0093,124.0,Invoice:2111
+SPL,nan,GENERAL JOURNAL,8/1/2024,Tax Payable,CUST_0093,-9.0,Invoice:2111
+SPL,nan,GENERAL JOURNAL,8/1/2024,Service Income,CUST_0093,-115.0,Invoice:2111 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Income,OWNER,5.0,Sales tax for invoice #2111
+SPL,nan,GENERAL JOURNAL,7/19/2024,CITY,OWNER,-5.0,Sales tax for invoice #2111
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Accounts Receivable,OWNER,394.0,Payment for invoice #2110 - CUST_0092
+SPL,nan,GENERAL JOURNAL,7/19/2024,Service Income,OWNER,-394.0,Payment for invoice #2110 - CUST_0092
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/8/2024,Accounts Receivable,CUST_0092,2135.0,Invoice:2110
+SPL,nan,GENERAL JOURNAL,12/8/2024,Tax Payable,CUST_0092,-163.0,Invoice:2110
+SPL,nan,GENERAL JOURNAL,12/8/2024,Service Income,CUST_0092,-1382.0,Invoice:2110 SERVICE
+SPL,nan,GENERAL JOURNAL,12/8/2024,Service Income,CUST_0092,-295.0,Invoice:2110 SERVICE
+SPL,nan,GENERAL JOURNAL,12/8/2024,Service Income,CUST_0092,-295.0,Invoice:2110 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Income,OWNER,33.0,Sales tax for invoice #2110
+SPL,nan,GENERAL JOURNAL,7/19/2024,CITY,OWNER,-33.0,Sales tax for invoice #2110
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2109 - CUST_0098
+SPL,nan,GENERAL JOURNAL,7/19/2024,Service Income,OWNER,-170.0,Payment for invoice #2109 - CUST_0098
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/19/2024,Income,OWNER,14.0,Sales tax for invoice #2109
+SPL,nan,GENERAL JOURNAL,7/19/2024,CITY,OWNER,-14.0,Sales tax for invoice #2109
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/22/2024,Accounts Receivable,OWNER,930.0,Payment for invoice #2112 - CUST_0121
+SPL,nan,GENERAL JOURNAL,7/22/2024,Service Income,OWNER,-930.0,Payment for invoice #2112 - CUST_0121
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/22/2024,Accounts Receivable,CUST_0121,1007.0,Invoice:2112
+SPL,nan,GENERAL JOURNAL,7/22/2024,Tax Payable,CUST_0121,-77.0,Invoice:2112
+SPL,nan,GENERAL JOURNAL,7/22/2024,Service Income,CUST_0121,-495.0,Invoice:2112 SERVICE
+SPL,nan,GENERAL JOURNAL,7/22/2024,Service Income,CUST_0121,-435.0,Invoice:2112 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/22/2024,Income,OWNER,77.0,Sales tax for invoice #2112
+SPL,nan,GENERAL JOURNAL,7/22/2024,CITY,OWNER,-77.0,Sales tax for invoice #2112
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/22/2024,Accounts Receivable,OWNER,855.0,Payment for invoice #2113 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,7/22/2024,Service Income,OWNER,-855.0,Payment for invoice #2113 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/30/2024,Accounts Receivable,CUST_0113,926.0,Invoice:2113
+SPL,nan,GENERAL JOURNAL,7/30/2024,Tax Payable,CUST_0113,-71.0,Invoice:2113
+SPL,nan,GENERAL JOURNAL,7/30/2024,Service Income,CUST_0113,-855.0,Invoice:2113 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/22/2024,Income,OWNER,71.0,Sales tax for invoice #2113
+SPL,nan,GENERAL JOURNAL,7/22/2024,CITY,OWNER,-71.0,Sales tax for invoice #2113
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/25/2024,Accounts Receivable,OWNER,200.0,Tip for invoice #2114 - CUST_0069
+SPL,nan,GENERAL JOURNAL,7/25/2024,Uncategorized Income,OWNER,-200.0,Tip for invoice #2114 - CUST_0069
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/2/2024,Accounts Receivable,CUST_0069,13786.0,Invoice:2114
+SPL,nan,GENERAL JOURNAL,8/2/2024,Tax Payable,CUST_0069,-1051.0,Invoice:2114
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,CUST_0069,-4285.0,Invoice:2114 SERVICE
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,CUST_0069,-4385.0,Invoice:2114 SERVICE
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,CUST_0069,-3370.0,Invoice:2114 SERVICE
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,CUST_0069,-695.0,Invoice:2114 SERVICE
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,CUST_0069,0.0,Invoice:2114 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/25/2024,Accounts Receivable,OWNER,12735.0,Payment for invoice #2114 - CUST_0069
+SPL,nan,GENERAL JOURNAL,7/25/2024,Service Income,OWNER,-12735.0,Payment for invoice #2114 - CUST_0069
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/25/2024,Income,OWNER,1051.0,Sales tax for invoice #2114
+SPL,nan,GENERAL JOURNAL,7/25/2024,CITY,OWNER,-1051.0,Sales tax for invoice #2114
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/30/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2115 - CUST_0132
+SPL,nan,GENERAL JOURNAL,7/30/2024,Service Income,OWNER,-155.0,Payment for invoice #2115 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/1/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2115
+SPL,nan,GENERAL JOURNAL,8/1/2024,Tax Payable,CUST_0132,-13.0,Invoice:2115
+SPL,nan,GENERAL JOURNAL,8/1/2024,Service Income,CUST_0132,-155.0,Invoice:2115 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,7/30/2024,Income,OWNER,13.0,Sales tax for invoice #2115
+SPL,nan,GENERAL JOURNAL,7/30/2024,CITY,OWNER,-13.0,Sales tax for invoice #2115
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/2/2024,Accounts Receivable,OWNER,100.0,Payment for invoice #2116 - CUST_0121
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,OWNER,-100.0,Payment for invoice #2116 - CUST_0121
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Accounts Receivable,CUST_0121,108.0,Invoice:2116
+SPL,nan,GENERAL JOURNAL,8/12/2024,Tax Payable,CUST_0121,-8.0,Invoice:2116
+SPL,nan,GENERAL JOURNAL,8/12/2024,Service Income,CUST_0121,-100.0,Invoice:2116 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/2/2024,Income,OWNER,8.0,Sales tax for invoice #2116
+SPL,nan,GENERAL JOURNAL,8/2/2024,CITY,OWNER,-8.0,Sales tax for invoice #2116
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/2/2024,Accounts Receivable,OWNER,58.0,Payment for invoice #2111 - CUST_0093
+SPL,nan,GENERAL JOURNAL,8/2/2024,Service Income,OWNER,-58.0,Payment for invoice #2111 - CUST_0093
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/2/2024,Income,OWNER,5.0,Sales tax for invoice #2111
+SPL,nan,GENERAL JOURNAL,8/2/2024,CITY,OWNER,-5.0,Sales tax for invoice #2111
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/5/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2119 - CUST_0090
+SPL,nan,GENERAL JOURNAL,8/5/2024,Service Income,OWNER,-170.0,Payment for invoice #2119 - CUST_0090
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Accounts Receivable,CUST_0090,368.0,Invoice:2119
+SPL,nan,GENERAL JOURNAL,8/12/2024,Tax Payable,CUST_0090,-28.0,Invoice:2119
+SPL,nan,GENERAL JOURNAL,8/12/2024,Service Income,CUST_0090,-340.0,Invoice:2119 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/5/2024,Income,OWNER,14.0,Sales tax for invoice #2119
+SPL,nan,GENERAL JOURNAL,8/5/2024,CITY,OWNER,-14.0,Sales tax for invoice #2119
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/7/2024,Accounts Receivable,OWNER,1160.0,Payment for invoice #2120 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,8/7/2024,Service Income,OWNER,-1160.0,Payment for invoice #2120 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/14/2024,Accounts Receivable,CUST_0064,1256.0,Invoice:2120
+SPL,nan,GENERAL JOURNAL,8/14/2024,Tax Payable,CUST_0064,-96.0,Invoice:2120
+SPL,nan,GENERAL JOURNAL,8/14/2024,Service Income,CUST_0064,-1160.0,Invoice:2120 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/7/2024,Income,OWNER,96.0,Sales tax for invoice #2120
+SPL,nan,GENERAL JOURNAL,8/7/2024,CITY,OWNER,-96.0,Sales tax for invoice #2120
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/7/2024,Accounts Receivable,OWNER,1840.0,Payment for invoice #2118 - CUST_0076
+SPL,nan,GENERAL JOURNAL,8/7/2024,Service Income,OWNER,-1840.0,Payment for invoice #2118 - CUST_0076
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/7/2024,Accounts Receivable,CUST_0076,1992.0,Invoice:2118
+SPL,nan,GENERAL JOURNAL,8/7/2024,Tax Payable,CUST_0076,-152.0,Invoice:2118
+SPL,nan,GENERAL JOURNAL,8/7/2024,Service Income,CUST_0076,-1295.0,Invoice:2118 SERVICE
+SPL,nan,GENERAL JOURNAL,8/7/2024,Service Income,CUST_0076,-545.0,Invoice:2118 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/7/2024,Income,OWNER,152.0,Sales tax for invoice #2118
+SPL,nan,GENERAL JOURNAL,8/7/2024,CITY,OWNER,-152.0,Sales tax for invoice #2118
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/11/2024,Accounts Receivable,OWNER,535.0,Payment for invoice #2123 - CUST_0008
+SPL,nan,GENERAL JOURNAL,8/11/2024,Service Income,OWNER,-535.0,Payment for invoice #2123 - CUST_0008
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/19/2024,Accounts Receivable,CUST_0008,579.0,Invoice:2123
+SPL,nan,GENERAL JOURNAL,8/19/2024,Tax Payable,CUST_0008,-44.0,Invoice:2123
+SPL,nan,GENERAL JOURNAL,8/19/2024,Service Income,CUST_0008,-195.0,Invoice:2123 SERVICE
+SPL,nan,GENERAL JOURNAL,8/19/2024,Service Income,CUST_0008,-145.0,Invoice:2123 SERVICE
+SPL,nan,GENERAL JOURNAL,8/19/2024,Service Income,CUST_0008,-195.0,Invoice:2123 SERVICE
+SPL,nan,GENERAL JOURNAL,8/19/2024,Service Income,CUST_0008,0.0,Invoice:2123 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/11/2024,Income,OWNER,44.0,Sales tax for invoice #2123
+SPL,nan,GENERAL JOURNAL,8/11/2024,CITY,OWNER,-44.0,Sales tax for invoice #2123
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Accounts Receivable,OWNER,1835.0,Payment for invoice #2124 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,8/12/2024,Service Income,OWNER,-1835.0,Payment for invoice #2124 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/20/2024,Accounts Receivable,CUST_0113,1986.0,Invoice:2124
+SPL,nan,GENERAL JOURNAL,8/20/2024,Tax Payable,CUST_0113,-151.0,Invoice:2124
+SPL,nan,GENERAL JOURNAL,8/20/2024,Service Income,CUST_0113,-1245.0,Invoice:2124 SERVICE
+SPL,nan,GENERAL JOURNAL,8/20/2024,Service Income,CUST_0113,-590.0,Invoice:2124 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Income,OWNER,151.0,Sales tax for invoice #2124
+SPL,nan,GENERAL JOURNAL,8/12/2024,CITY,OWNER,-151.0,Sales tax for invoice #2124
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2125 - CUST_0050
+SPL,nan,GENERAL JOURNAL,8/12/2024,Service Income,OWNER,-170.0,Payment for invoice #2125 - CUST_0050
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/14/2024,Accounts Receivable,CUST_0050,368.0,Invoice:2125
+SPL,nan,GENERAL JOURNAL,8/14/2024,Tax Payable,CUST_0050,-28.0,Invoice:2125
+SPL,nan,GENERAL JOURNAL,8/14/2024,Service Income,CUST_0050,-340.0,Invoice:2125 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Income,OWNER,14.0,Sales tax for invoice #2125
+SPL,nan,GENERAL JOURNAL,8/12/2024,CITY,OWNER,-14.0,Sales tax for invoice #2125
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2119 - CUST_0090
+SPL,nan,GENERAL JOURNAL,8/12/2024,Service Income,OWNER,-170.0,Payment for invoice #2119 - CUST_0090
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/12/2024,Income,OWNER,14.0,Sales tax for invoice #2119
+SPL,nan,GENERAL JOURNAL,8/12/2024,CITY,OWNER,-14.0,Sales tax for invoice #2119
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2126 - CUST_0131
+SPL,nan,GENERAL JOURNAL,8/13/2024,Service Income,OWNER,-250.0,Payment for invoice #2126 - CUST_0131
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/20/2024,Accounts Receivable,CUST_0131,250.0,Invoice:2126
+SPL,nan,GENERAL JOURNAL,8/20/2024,Service Income,CUST_0131,-250.0,Invoice:2126 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Accounts Receivable,OWNER,795.0,Payment for invoice #2127 - CUST_0047
+SPL,nan,GENERAL JOURNAL,8/13/2024,Service Income,OWNER,-795.0,Payment for invoice #2127 - CUST_0047
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/21/2024,Accounts Receivable,CUST_0047,861.0,Invoice:2127
+SPL,nan,GENERAL JOURNAL,8/21/2024,Tax Payable,CUST_0047,-66.0,Invoice:2127
+SPL,nan,GENERAL JOURNAL,8/21/2024,Service Income,CUST_0047,-795.0,Invoice:2127 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Income,OWNER,66.0,Sales tax for invoice #2127
+SPL,nan,GENERAL JOURNAL,8/13/2024,CITY,OWNER,-66.0,Sales tax for invoice #2127
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2121 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,8/13/2024,Service Income,OWNER,-50.0,Payment for invoice #2121 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/15/2024,Accounts Receivable,CUST_0055,50.0,Invoice:2121
+SPL,nan,GENERAL JOURNAL,8/15/2024,Service Income,CUST_0055,-50.0,Invoice:2121 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #2128 - CUST_0090
+SPL,nan,GENERAL JOURNAL,8/13/2024,Service Income,OWNER,-95.0,Payment for invoice #2128 - CUST_0090
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Accounts Receivable,CUST_0090,103.0,Invoice:2128
+SPL,nan,GENERAL JOURNAL,8/23/2024,Tax Payable,CUST_0090,-8.0,Invoice:2128
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,CUST_0090,-95.0,Invoice:2128 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Income,OWNER,8.0,Sales tax for invoice #2128
+SPL,nan,GENERAL JOURNAL,8/13/2024,CITY,OWNER,-8.0,Sales tax for invoice #2128
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/14/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2129 - CUST_0132
+SPL,nan,GENERAL JOURNAL,8/14/2024,Service Income,OWNER,-155.0,Payment for invoice #2129 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/16/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2129
+SPL,nan,GENERAL JOURNAL,8/16/2024,Tax Payable,CUST_0132,-13.0,Invoice:2129
+SPL,nan,GENERAL JOURNAL,8/16/2024,Service Income,CUST_0132,-155.0,Invoice:2129 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/14/2024,Income,OWNER,13.0,Sales tax for invoice #2129
+SPL,nan,GENERAL JOURNAL,8/14/2024,CITY,OWNER,-13.0,Sales tax for invoice #2129
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/14/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2125 - CUST_0050
+SPL,nan,GENERAL JOURNAL,8/14/2024,Service Income,OWNER,-170.0,Payment for invoice #2125 - CUST_0050
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/14/2024,Income,OWNER,14.0,Sales tax for invoice #2125
+SPL,nan,GENERAL JOURNAL,8/14/2024,CITY,OWNER,-14.0,Sales tax for invoice #2125
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/15/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #2130 - CUST_0050
+SPL,nan,GENERAL JOURNAL,8/15/2024,Service Income,OWNER,-95.0,Payment for invoice #2130 - CUST_0050
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/25/2024,Accounts Receivable,CUST_0050,103.0,Invoice:2130
+SPL,nan,GENERAL JOURNAL,8/25/2024,Tax Payable,CUST_0050,-8.0,Invoice:2130
+SPL,nan,GENERAL JOURNAL,8/25/2024,Service Income,CUST_0050,-95.0,Invoice:2130 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/15/2024,Income,OWNER,8.0,Sales tax for invoice #2130
+SPL,nan,GENERAL JOURNAL,8/15/2024,CITY,OWNER,-8.0,Sales tax for invoice #2130
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/15/2024,Accounts Receivable,OWNER,290.0,Payment for invoice #2132 - CUST_0008
+SPL,nan,GENERAL JOURNAL,8/15/2024,Service Income,OWNER,-290.0,Payment for invoice #2132 - CUST_0008
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Accounts Receivable,CUST_0008,314.0,Invoice:2132
+SPL,nan,GENERAL JOURNAL,8/23/2024,Tax Payable,CUST_0008,-24.0,Invoice:2132
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,CUST_0008,-195.0,Invoice:2132 SERVICE
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,CUST_0008,-95.0,Invoice:2132 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/15/2024,Income,OWNER,24.0,Sales tax for invoice #2132
+SPL,nan,GENERAL JOURNAL,8/15/2024,CITY,OWNER,-24.0,Sales tax for invoice #2132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/16/2024,Accounts Receivable,OWNER,2125.0,Payment for invoice #2131 - CUST_0096
+SPL,nan,GENERAL JOURNAL,8/16/2024,Service Income,OWNER,-2125.0,Payment for invoice #2131 - CUST_0096
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/17/2024,Accounts Receivable,CUST_0096,2125.0,Invoice:2131
+SPL,nan,GENERAL JOURNAL,8/17/2024,Service Income,CUST_0096,-2125.0,Invoice:2131 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/20/2024,Accounts Receivable,OWNER,2210.0,Payment for invoice #2122 - CUST_0079
+SPL,nan,GENERAL JOURNAL,8/20/2024,Service Income,OWNER,-2210.0,Payment for invoice #2122 - CUST_0079
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/13/2024,Accounts Receivable,CUST_0079,2392.0,Invoice:2122
+SPL,nan,GENERAL JOURNAL,8/13/2024,Tax Payable,CUST_0079,-182.0,Invoice:2122
+SPL,nan,GENERAL JOURNAL,8/13/2024,Service Income,CUST_0079,-2210.0,Invoice:2122 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/20/2024,Income,OWNER,182.0,Sales tax for invoice #2122
+SPL,nan,GENERAL JOURNAL,8/20/2024,CITY,OWNER,-182.0,Sales tax for invoice #2122
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Accounts Receivable,OWNER,134.0,Payment for invoice #2136 - CUST_0011
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,OWNER,-134.0,Payment for invoice #2136 - CUST_0011
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/26/2024,Accounts Receivable,CUST_0011,368.0,Invoice:2136
+SPL,nan,GENERAL JOURNAL,8/26/2024,Tax Payable,CUST_0011,-28.0,Invoice:2136
+SPL,nan,GENERAL JOURNAL,8/26/2024,Service Income,CUST_0011,-145.0,Invoice:2136 SERVICE
+SPL,nan,GENERAL JOURNAL,8/26/2024,Service Income,CUST_0011,-195.0,Invoice:2136 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Income,OWNER,11.0,Sales tax for invoice #2136
+SPL,nan,GENERAL JOURNAL,8/23/2024,CITY,OWNER,-11.0,Sales tax for invoice #2136
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Accounts Receivable,OWNER,206.0,Payment for invoice #2136 - CUST_0011
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,OWNER,-206.0,Payment for invoice #2136 - CUST_0011
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Income,OWNER,17.0,Sales tax for invoice #2136
+SPL,nan,GENERAL JOURNAL,8/23/2024,CITY,OWNER,-17.0,Sales tax for invoice #2136
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Accounts Receivable,OWNER,1705.0,Payment for invoice #2135 - CUST_0038
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,OWNER,-1705.0,Payment for invoice #2135 - CUST_0038
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/29/2024,Accounts Receivable,CUST_0038,1846.0,Invoice:2135
+SPL,nan,GENERAL JOURNAL,8/29/2024,Tax Payable,CUST_0038,-141.0,Invoice:2135
+SPL,nan,GENERAL JOURNAL,8/29/2024,Service Income,CUST_0038,-295.0,Invoice:2135 SERVICE
+SPL,nan,GENERAL JOURNAL,8/29/2024,Service Income,CUST_0038,-625.0,Invoice:2135 SERVICE
+SPL,nan,GENERAL JOURNAL,8/29/2024,Service Income,CUST_0038,-785.0,Invoice:2135 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Income,OWNER,141.0,Sales tax for invoice #2135
+SPL,nan,GENERAL JOURNAL,8/23/2024,CITY,OWNER,-141.0,Sales tax for invoice #2135
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Accounts Receivable,OWNER,195.0,Payment for invoice #2138 - CUST_0038
+SPL,nan,GENERAL JOURNAL,8/23/2024,Service Income,OWNER,-195.0,Payment for invoice #2138 - CUST_0038
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/2/2024,Accounts Receivable,CUST_0038,211.0,Invoice:2138
+SPL,nan,GENERAL JOURNAL,9/2/2024,Tax Payable,CUST_0038,-16.0,Invoice:2138
+SPL,nan,GENERAL JOURNAL,9/2/2024,Service Income,CUST_0038,-195.0,Invoice:2138 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/23/2024,Income,OWNER,16.0,Sales tax for invoice #2138
+SPL,nan,GENERAL JOURNAL,8/23/2024,CITY,OWNER,-16.0,Sales tax for invoice #2138
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/24/2024,Accounts Receivable,OWNER,1975.0,Payment for invoice #2134 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,8/24/2024,Service Income,OWNER,-1975.0,Payment for invoice #2134 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/25/2024,Accounts Receivable,CUST_0040,1975.0,Invoice:2134
+SPL,nan,GENERAL JOURNAL,8/25/2024,Service Income,CUST_0040,-295.0,Invoice:2134 SERVICE
+SPL,nan,GENERAL JOURNAL,8/25/2024,Service Income,CUST_0040,-1680.0,Invoice:2134 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,8/24/2024,Income,OWNER,0.0,Sales tax for invoice #2134
+SPL,nan,GENERAL JOURNAL,8/24/2024,CITY,OWNER,0.0,Sales tax for invoice #2134
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/11/2024,Accounts Receivable,OWNER,340.0,Payment for invoice #2139 - CUST_0026
+SPL,nan,GENERAL JOURNAL,9/11/2024,Service Income,OWNER,-340.0,Payment for invoice #2139 - CUST_0026
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/15/2024,Accounts Receivable,CUST_0026,368.0,Invoice:2139
+SPL,nan,GENERAL JOURNAL,9/15/2024,Tax Payable,CUST_0026,-28.0,Invoice:2139
+SPL,nan,GENERAL JOURNAL,9/15/2024,Service Income,CUST_0026,-145.0,Invoice:2139 SERVICE
+SPL,nan,GENERAL JOURNAL,9/15/2024,Service Income,CUST_0026,-195.0,Invoice:2139 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/11/2024,Income,OWNER,28.0,Sales tax for invoice #2139
+SPL,nan,GENERAL JOURNAL,9/11/2024,CITY,OWNER,-28.0,Sales tax for invoice #2139
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/12/2024,Accounts Receivable,OWNER,680.0,Payment for invoice #2140 - CUST_0104
+SPL,nan,GENERAL JOURNAL,9/12/2024,Service Income,OWNER,-680.0,Payment for invoice #2140 - CUST_0104
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/15/2024,Accounts Receivable,CUST_0104,736.0,Invoice:2140
+SPL,nan,GENERAL JOURNAL,9/15/2024,Tax Payable,CUST_0104,-56.0,Invoice:2140
+SPL,nan,GENERAL JOURNAL,9/15/2024,Service Income,CUST_0104,-290.0,Invoice:2140 SERVICE
+SPL,nan,GENERAL JOURNAL,9/15/2024,Service Income,CUST_0104,-390.0,Invoice:2140 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/12/2024,Income,OWNER,56.0,Sales tax for invoice #2140
+SPL,nan,GENERAL JOURNAL,9/12/2024,CITY,OWNER,-56.0,Sales tax for invoice #2140
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Accounts Receivable,OWNER,995.0,Payment for invoice #2143 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,9/13/2024,Service Income,OWNER,-995.0,Payment for invoice #2143 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,CUST_0086,1077.0,Invoice:2143
+SPL,nan,GENERAL JOURNAL,9/20/2024,Tax Payable,CUST_0086,-82.0,Invoice:2143
+SPL,nan,GENERAL JOURNAL,9/20/2024,Service Income,CUST_0086,-995.0,Invoice:2143 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Income,OWNER,82.0,Sales tax for invoice #2143
+SPL,nan,GENERAL JOURNAL,9/13/2024,CITY,OWNER,-82.0,Sales tax for invoice #2143
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Accounts Receivable,OWNER,395.0,Payment for invoice #2141 - CUST_0119
+SPL,nan,GENERAL JOURNAL,9/13/2024,Service Income,OWNER,-395.0,Payment for invoice #2141 - CUST_0119
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/22/2024,Accounts Receivable,CUST_0119,428.0,Invoice:2141
+SPL,nan,GENERAL JOURNAL,9/22/2024,Tax Payable,CUST_0119,-33.0,Invoice:2141
+SPL,nan,GENERAL JOURNAL,9/22/2024,Service Income,CUST_0119,-395.0,Invoice:2141 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Income,OWNER,33.0,Sales tax for invoice #2141
+SPL,nan,GENERAL JOURNAL,9/13/2024,CITY,OWNER,-33.0,Sales tax for invoice #2141
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Accounts Receivable,OWNER,510.0,Tip for invoice #2142 - CUST_0080
+SPL,nan,GENERAL JOURNAL,9/13/2024,Uncategorized Income,OWNER,-510.0,Tip for invoice #2142 - CUST_0080
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/19/2024,Accounts Receivable,CUST_0080,2538.0,Invoice:2142
+SPL,nan,GENERAL JOURNAL,9/19/2024,Tax Payable,CUST_0080,-193.0,Invoice:2142
+SPL,nan,GENERAL JOURNAL,9/19/2024,Service Income,CUST_0080,-2345.0,Invoice:2142 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Accounts Receivable,OWNER,2345.0,Payment for invoice #2142 - CUST_0080
+SPL,nan,GENERAL JOURNAL,9/13/2024,Service Income,OWNER,-2345.0,Payment for invoice #2142 - CUST_0080
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Income,OWNER,193.0,Sales tax for invoice #2142
+SPL,nan,GENERAL JOURNAL,9/13/2024,CITY,OWNER,-193.0,Sales tax for invoice #2142
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Accounts Receivable,OWNER,240.0,Payment for invoice #2144 - CUST_0124
+SPL,nan,GENERAL JOURNAL,9/13/2024,Service Income,OWNER,-240.0,Payment for invoice #2144 - CUST_0124
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/23/2024,Accounts Receivable,CUST_0124,260.0,Invoice:2144
+SPL,nan,GENERAL JOURNAL,9/23/2024,Tax Payable,CUST_0124,-20.0,Invoice:2144
+SPL,nan,GENERAL JOURNAL,9/23/2024,Service Income,CUST_0124,-180.0,Invoice:2144 SERVICE
+SPL,nan,GENERAL JOURNAL,9/23/2024,Service Income,CUST_0124,-60.0,Invoice:2144 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/13/2024,Income,OWNER,20.0,Sales tax for invoice #2144
+SPL,nan,GENERAL JOURNAL,9/13/2024,CITY,OWNER,-20.0,Sales tax for invoice #2144
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/16/2024,Accounts Receivable,OWNER,90.0,Payment for invoice #2145 - CUST_0071
+SPL,nan,GENERAL JOURNAL,9/16/2024,Service Income,OWNER,-90.0,Payment for invoice #2145 - CUST_0071
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/22/2024,Accounts Receivable,CUST_0071,97.0,Invoice:2145
+SPL,nan,GENERAL JOURNAL,9/22/2024,Tax Payable,CUST_0071,-7.0,Invoice:2145
+SPL,nan,GENERAL JOURNAL,9/22/2024,Service Income,CUST_0071,-90.0,Invoice:2145 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/16/2024,Income,OWNER,7.0,Sales tax for invoice #2145
+SPL,nan,GENERAL JOURNAL,9/16/2024,CITY,OWNER,-7.0,Sales tax for invoice #2145
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/17/2024,Accounts Receivable,OWNER,2590.0,Payment for invoice #2137 - CUST_0084
+SPL,nan,GENERAL JOURNAL,9/17/2024,Service Income,OWNER,-2590.0,Payment for invoice #2137 - CUST_0084
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/1/2024,Accounts Receivable,CUST_0084,2590.0,Invoice:2137
+SPL,nan,GENERAL JOURNAL,10/1/2024,Service Income,CUST_0084,-2590.0,Invoice:2137 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/17/2024,Accounts Receivable,OWNER,635.0,Payment for invoice #2146 - CUST_0119
+SPL,nan,GENERAL JOURNAL,9/17/2024,Service Income,OWNER,-635.0,Payment for invoice #2146 - CUST_0119
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/24/2024,Accounts Receivable,CUST_0119,687.0,Invoice:2146
+SPL,nan,GENERAL JOURNAL,9/24/2024,Tax Payable,CUST_0119,-52.0,Invoice:2146
+SPL,nan,GENERAL JOURNAL,9/24/2024,Service Income,CUST_0119,-635.0,Invoice:2146 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/17/2024,Income,OWNER,52.0,Sales tax for invoice #2146
+SPL,nan,GENERAL JOURNAL,9/17/2024,CITY,OWNER,-52.0,Sales tax for invoice #2146
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/17/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2147 - CUST_0132
+SPL,nan,GENERAL JOURNAL,9/17/2024,Service Income,OWNER,-155.0,Payment for invoice #2147 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/18/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2147
+SPL,nan,GENERAL JOURNAL,9/18/2024,Tax Payable,CUST_0132,-13.0,Invoice:2147
+SPL,nan,GENERAL JOURNAL,9/18/2024,Service Income,CUST_0132,-155.0,Invoice:2147 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/17/2024,Income,OWNER,13.0,Sales tax for invoice #2147
+SPL,nan,GENERAL JOURNAL,9/17/2024,CITY,OWNER,-13.0,Sales tax for invoice #2147
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/19/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2150 - CUST_0054
+SPL,nan,GENERAL JOURNAL,9/19/2024,Service Income,OWNER,-125.0,Payment for invoice #2150 - CUST_0054
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/24/2024,Accounts Receivable,CUST_0054,135.0,Invoice:2150
+SPL,nan,GENERAL JOURNAL,9/24/2024,Tax Payable,CUST_0054,-10.0,Invoice:2150
+SPL,nan,GENERAL JOURNAL,9/24/2024,Service Income,CUST_0054,-125.0,Invoice:2150 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/19/2024,Income,OWNER,10.0,Sales tax for invoice #2150
+SPL,nan,GENERAL JOURNAL,9/19/2024,CITY,OWNER,-10.0,Sales tax for invoice #2150
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,OWNER,195.0,Payment for invoice #2152 - CUST_0136
+SPL,nan,GENERAL JOURNAL,9/20/2024,Service Income,OWNER,-195.0,Payment for invoice #2152 - CUST_0136
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/27/2024,Accounts Receivable,CUST_0136,211.0,Invoice:2152
+SPL,nan,GENERAL JOURNAL,9/27/2024,Tax Payable,CUST_0136,-16.0,Invoice:2152
+SPL,nan,GENERAL JOURNAL,9/27/2024,Service Income,CUST_0136,-195.0,Invoice:2152 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Income,OWNER,16.0,Sales tax for invoice #2152
+SPL,nan,GENERAL JOURNAL,9/20/2024,CITY,OWNER,-16.0,Sales tax for invoice #2152
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,OWNER,180.0,Payment for invoice #2151 - CUST_0053
+SPL,nan,GENERAL JOURNAL,9/20/2024,Service Income,OWNER,-180.0,Payment for invoice #2151 - CUST_0053
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/29/2024,Accounts Receivable,CUST_0053,195.0,Invoice:2151
+SPL,nan,GENERAL JOURNAL,9/29/2024,Tax Payable,CUST_0053,-15.0,Invoice:2151
+SPL,nan,GENERAL JOURNAL,9/29/2024,Service Income,CUST_0053,-180.0,Invoice:2151 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Income,OWNER,15.0,Sales tax for invoice #2151
+SPL,nan,GENERAL JOURNAL,9/20/2024,CITY,OWNER,-15.0,Sales tax for invoice #2151
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,OWNER,225.0,Tip for invoice #2148 - CUST_0080
+SPL,nan,GENERAL JOURNAL,9/20/2024,Uncategorized Income,OWNER,-225.0,Tip for invoice #2148 - CUST_0080
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/26/2024,Accounts Receivable,CUST_0080,947.0,Invoice:2148
+SPL,nan,GENERAL JOURNAL,9/26/2024,Tax Payable,CUST_0080,-72.0,Invoice:2148
+SPL,nan,GENERAL JOURNAL,9/26/2024,Service Income,CUST_0080,-875.0,Invoice:2148 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,OWNER,875.0,Payment for invoice #2148 - CUST_0080
+SPL,nan,GENERAL JOURNAL,9/20/2024,Service Income,OWNER,-875.0,Payment for invoice #2148 - CUST_0080
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Income,OWNER,72.0,Sales tax for invoice #2148
+SPL,nan,GENERAL JOURNAL,9/20/2024,CITY,OWNER,-72.0,Sales tax for invoice #2148
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2154 - CUST_0089
+SPL,nan,GENERAL JOURNAL,9/20/2024,Service Income,OWNER,-170.0,Payment for invoice #2154 - CUST_0089
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/8/2024,Accounts Receivable,CUST_0089,368.0,Invoice:2154
+SPL,nan,GENERAL JOURNAL,10/8/2024,Tax Payable,CUST_0089,-28.0,Invoice:2154
+SPL,nan,GENERAL JOURNAL,10/8/2024,Service Income,CUST_0089,-340.0,Invoice:2154 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Income,OWNER,14.0,Sales tax for invoice #2154
+SPL,nan,GENERAL JOURNAL,9/20/2024,CITY,OWNER,-14.0,Sales tax for invoice #2154
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/21/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2153 - CUST_0121
+SPL,nan,GENERAL JOURNAL,9/21/2024,Service Income,OWNER,-125.0,Payment for invoice #2153 - CUST_0121
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/28/2024,Accounts Receivable,CUST_0121,135.0,Invoice:2153
+SPL,nan,GENERAL JOURNAL,9/28/2024,Tax Payable,CUST_0121,-10.0,Invoice:2153
+SPL,nan,GENERAL JOURNAL,9/28/2024,Service Income,CUST_0121,-125.0,Invoice:2153 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/21/2024,Income,OWNER,10.0,Sales tax for invoice #2153
+SPL,nan,GENERAL JOURNAL,9/21/2024,CITY,OWNER,-10.0,Sales tax for invoice #2153
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/21/2024,Accounts Receivable,OWNER,435.0,Payment for invoice #2155 - CUST_0015
+SPL,nan,GENERAL JOURNAL,9/21/2024,Service Income,OWNER,-435.0,Payment for invoice #2155 - CUST_0015
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/29/2024,Accounts Receivable,CUST_0015,471.0,Invoice:2155
+SPL,nan,GENERAL JOURNAL,9/29/2024,Tax Payable,CUST_0015,-36.0,Invoice:2155
+SPL,nan,GENERAL JOURNAL,9/29/2024,Service Income,CUST_0015,-435.0,Invoice:2155 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/21/2024,Income,OWNER,36.0,Sales tax for invoice #2155
+SPL,nan,GENERAL JOURNAL,9/21/2024,CITY,OWNER,-36.0,Sales tax for invoice #2155
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/23/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2149 - CUST_0132
+SPL,nan,GENERAL JOURNAL,9/23/2024,Service Income,OWNER,-155.0,Payment for invoice #2149 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/20/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2149
+SPL,nan,GENERAL JOURNAL,9/20/2024,Tax Payable,CUST_0132,-13.0,Invoice:2149
+SPL,nan,GENERAL JOURNAL,9/20/2024,Service Income,CUST_0132,-155.0,Invoice:2149 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/23/2024,Income,OWNER,13.0,Sales tax for invoice #2149
+SPL,nan,GENERAL JOURNAL,9/23/2024,CITY,OWNER,-13.0,Sales tax for invoice #2149
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/30/2024,Accounts Receivable,OWNER,3675.0,Payment for invoice #2157 - CUST_0024
+SPL,nan,GENERAL JOURNAL,9/30/2024,Service Income,OWNER,-3675.0,Payment for invoice #2157 - CUST_0024
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/27/2024,Accounts Receivable,CUST_0024,3978.0,Invoice:2157
+SPL,nan,GENERAL JOURNAL,9/27/2024,Tax Payable,CUST_0024,-303.0,Invoice:2157
+SPL,nan,GENERAL JOURNAL,9/27/2024,Service Income,CUST_0024,-2775.0,Invoice:2157 SERVICE
+SPL,nan,GENERAL JOURNAL,9/27/2024,Service Income,CUST_0024,-225.0,Invoice:2157 SERVICE
+SPL,nan,GENERAL JOURNAL,9/27/2024,Service Income,CUST_0024,-675.0,Invoice:2157 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,9/30/2024,Income,OWNER,303.0,Sales tax for invoice #2157
+SPL,nan,GENERAL JOURNAL,9/30/2024,CITY,OWNER,-303.0,Sales tax for invoice #2157
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/1/2024,Accounts Receivable,OWNER,60.0,Tip for invoice #2158 - CUST_0135
+SPL,nan,GENERAL JOURNAL,10/1/2024,Uncategorized Income,OWNER,-60.0,Tip for invoice #2158 - CUST_0135
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/7/2024,Accounts Receivable,CUST_0135,309.0,Invoice:2158
+SPL,nan,GENERAL JOURNAL,10/7/2024,Tax Payable,CUST_0135,-24.0,Invoice:2158
+SPL,nan,GENERAL JOURNAL,10/7/2024,Service Income,CUST_0135,-285.0,Invoice:2158 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/1/2024,Accounts Receivable,OWNER,285.0,Payment for invoice #2158 - CUST_0135
+SPL,nan,GENERAL JOURNAL,10/1/2024,Service Income,OWNER,-285.0,Payment for invoice #2158 - CUST_0135
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/1/2024,Income,OWNER,24.0,Sales tax for invoice #2158
+SPL,nan,GENERAL JOURNAL,10/1/2024,CITY,OWNER,-24.0,Sales tax for invoice #2158
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/3/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2159 - CUST_0109
+SPL,nan,GENERAL JOURNAL,10/3/2024,Service Income,OWNER,-170.0,Payment for invoice #2159 - CUST_0109
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/2/2024,Accounts Receivable,CUST_0109,639.0,Invoice:2159
+SPL,nan,GENERAL JOURNAL,11/2/2024,Tax Payable,CUST_0109,-49.0,Invoice:2159
+SPL,nan,GENERAL JOURNAL,11/2/2024,Service Income,CUST_0109,-395.0,Invoice:2159 SERVICE
+SPL,nan,GENERAL JOURNAL,11/2/2024,Service Income,CUST_0109,-195.0,Invoice:2159 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/3/2024,Income,OWNER,14.0,Sales tax for invoice #2159
+SPL,nan,GENERAL JOURNAL,10/3/2024,CITY,OWNER,-14.0,Sales tax for invoice #2159
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/7/2024,Accounts Receivable,OWNER,1470.0,Payment for invoice #2160 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,10/7/2024,Service Income,OWNER,-1470.0,Payment for invoice #2160 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/12/2024,Accounts Receivable,CUST_0044,1470.0,Invoice:2160
+SPL,nan,GENERAL JOURNAL,10/12/2024,Service Income,CUST_0044,-595.0,Invoice:2160 SERVICE
+SPL,nan,GENERAL JOURNAL,10/12/2024,Service Income,CUST_0044,-875.0,Invoice:2160 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/7/2024,Income,OWNER,0.0,Sales tax for invoice #2160
+SPL,nan,GENERAL JOURNAL,10/7/2024,CITY,OWNER,0.0,Sales tax for invoice #2160
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/7/2024,Accounts Receivable,OWNER,292.0,Payment for invoice #2163 - CUST_0057
+SPL,nan,GENERAL JOURNAL,10/7/2024,Service Income,OWNER,-292.0,Payment for invoice #2163 - CUST_0057
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/31/2024,Accounts Receivable,CUST_0057,585.0,Invoice:2163
+SPL,nan,GENERAL JOURNAL,10/31/2024,Service Income,CUST_0057,-585.0,Invoice:2163 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/7/2024,Income,OWNER,24.0,Sales tax for invoice #2163
+SPL,nan,GENERAL JOURNAL,10/7/2024,CITY,OWNER,-24.0,Sales tax for invoice #2163
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/8/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2161 - CUST_0100
+SPL,nan,GENERAL JOURNAL,10/8/2024,Service Income,OWNER,-170.0,Payment for invoice #2161 - CUST_0100
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/11/2024,Accounts Receivable,CUST_0100,368.0,Invoice:2161
+SPL,nan,GENERAL JOURNAL,10/11/2024,Tax Payable,CUST_0100,-28.0,Invoice:2161
+SPL,nan,GENERAL JOURNAL,10/11/2024,Service Income,CUST_0100,-340.0,Invoice:2161 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/8/2024,Income,OWNER,14.0,Sales tax for invoice #2161
+SPL,nan,GENERAL JOURNAL,10/8/2024,CITY,OWNER,-14.0,Sales tax for invoice #2161
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/8/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2161 - CUST_0100
+SPL,nan,GENERAL JOURNAL,10/8/2024,Service Income,OWNER,-170.0,Payment for invoice #2161 - CUST_0100
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/8/2024,Income,OWNER,14.0,Sales tax for invoice #2161
+SPL,nan,GENERAL JOURNAL,10/8/2024,CITY,OWNER,-14.0,Sales tax for invoice #2161
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/9/2024,Accounts Receivable,OWNER,170.0,Payment for invoice #2154 - CUST_0089
+SPL,nan,GENERAL JOURNAL,10/9/2024,Service Income,OWNER,-170.0,Payment for invoice #2154 - CUST_0089
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/9/2024,Income,OWNER,14.0,Sales tax for invoice #2154
+SPL,nan,GENERAL JOURNAL,10/9/2024,CITY,OWNER,-14.0,Sales tax for invoice #2154
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/11/2024,Accounts Receivable,OWNER,292.0,Payment for invoice #2165 - CUST_0006
+SPL,nan,GENERAL JOURNAL,10/11/2024,Service Income,OWNER,-292.0,Payment for invoice #2165 - CUST_0006
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/29/2024,Accounts Receivable,CUST_0006,633.0,Invoice:2165
+SPL,nan,GENERAL JOURNAL,10/29/2024,Tax Payable,CUST_0006,-48.0,Invoice:2165
+SPL,nan,GENERAL JOURNAL,10/29/2024,Service Income,CUST_0006,-585.0,Invoice:2165 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/11/2024,Income,OWNER,24.0,Sales tax for invoice #2165
+SPL,nan,GENERAL JOURNAL,10/11/2024,CITY,OWNER,-24.0,Sales tax for invoice #2165
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/14/2024,Accounts Receivable,OWNER,25.0,Payment for invoice #2166 - CUST_0054
+SPL,nan,GENERAL JOURNAL,10/14/2024,Service Income,OWNER,-25.0,Payment for invoice #2166 - CUST_0054
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/22/2024,Accounts Receivable,CUST_0054,27.0,Invoice:2166
+SPL,nan,GENERAL JOURNAL,10/22/2024,Tax Payable,CUST_0054,-2.0,Invoice:2166
+SPL,nan,GENERAL JOURNAL,10/22/2024,Service Income,CUST_0054,-25.0,Invoice:2166 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/14/2024,Income,OWNER,2.0,Sales tax for invoice #2166
+SPL,nan,GENERAL JOURNAL,10/14/2024,CITY,OWNER,-2.0,Sales tax for invoice #2166
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/15/2024,Accounts Receivable,OWNER,1175.0,Payment for invoice #2167 - CUST_0004
+SPL,nan,GENERAL JOURNAL,10/15/2024,Service Income,OWNER,-1175.0,Payment for invoice #2167 - CUST_0004
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/19/2024,Accounts Receivable,CUST_0004,1272.0,Invoice:2167
+SPL,nan,GENERAL JOURNAL,10/19/2024,Tax Payable,CUST_0004,-97.0,Invoice:2167
+SPL,nan,GENERAL JOURNAL,10/19/2024,Service Income,CUST_0004,-290.0,Invoice:2167 SERVICE
+SPL,nan,GENERAL JOURNAL,10/19/2024,Service Income,CUST_0004,-885.0,Invoice:2167 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/15/2024,Income,OWNER,97.0,Sales tax for invoice #2167
+SPL,nan,GENERAL JOURNAL,10/15/2024,CITY,OWNER,-97.0,Sales tax for invoice #2167
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/21/2024,Accounts Receivable,OWNER,2487.0,Payment for invoice #2169 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,10/21/2024,Service Income,OWNER,-2487.0,Payment for invoice #2169 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/27/2024,Accounts Receivable,CUST_0070,2692.0,Invoice:2169
+SPL,nan,GENERAL JOURNAL,10/27/2024,Tax Payable,CUST_0070,-205.0,Invoice:2169
+SPL,nan,GENERAL JOURNAL,10/27/2024,Service Income,CUST_0070,-1295.0,Invoice:2169 SERVICE
+SPL,nan,GENERAL JOURNAL,10/27/2024,Service Income,CUST_0070,-750.0,Invoice:2169 SERVICE
+SPL,nan,GENERAL JOURNAL,10/27/2024,Service Income,CUST_0070,-442.0,Invoice:2169 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/21/2024,Income,OWNER,205.0,Sales tax for invoice #2169
+SPL,nan,GENERAL JOURNAL,10/21/2024,CITY,OWNER,-205.0,Sales tax for invoice #2169
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/22/2024,Accounts Receivable,OWNER,810.0,Payment for invoice #2156 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,10/22/2024,Service Income,OWNER,-810.0,Payment for invoice #2156 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/13/2024,Accounts Receivable,CUST_0074,810.0,Invoice:2156
+SPL,nan,GENERAL JOURNAL,10/13/2024,Service Income,CUST_0074,-810.0,Invoice:2156 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/25/2024,Accounts Receivable,OWNER,8485.0,Payment for invoice #2162 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,10/25/2024,Service Income,OWNER,-8485.0,Payment for invoice #2162 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/7/2024,Accounts Receivable,CUST_0043,9185.0,Invoice:2162
+SPL,nan,GENERAL JOURNAL,11/7/2024,Tax Payable,CUST_0043,-700.0,Invoice:2162
+SPL,nan,GENERAL JOURNAL,11/7/2024,Service Income,CUST_0043,-6515.0,Invoice:2162 SERVICE
+SPL,nan,GENERAL JOURNAL,11/7/2024,Service Income,CUST_0043,-450.0,Invoice:2162 SERVICE
+SPL,nan,GENERAL JOURNAL,11/7/2024,Service Income,CUST_0043,-825.0,Invoice:2162 SERVICE
+SPL,nan,GENERAL JOURNAL,11/7/2024,Service Income,CUST_0043,-695.0,Invoice:2162 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/25/2024,Income,OWNER,700.0,Sales tax for invoice #2162
+SPL,nan,GENERAL JOURNAL,10/25/2024,CITY,OWNER,-700.0,Sales tax for invoice #2162
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/25/2024,Accounts Receivable,OWNER,0.0,Payment for invoice #2162 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,10/25/2024,Service Income,OWNER,0.0,Payment for invoice #2162 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/25/2024,Income,OWNER,0.0,Sales tax for invoice #2162
+SPL,nan,GENERAL JOURNAL,10/25/2024,CITY,OWNER,0.0,Sales tax for invoice #2162
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/28/2024,Accounts Receivable,OWNER,2490.0,Payment for invoice #2170 - CUST_0005
+SPL,nan,GENERAL JOURNAL,10/28/2024,Service Income,OWNER,-2490.0,Payment for invoice #2170 - CUST_0005
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/27/2024,Accounts Receivable,CUST_0005,2695.0,Invoice:2170
+SPL,nan,GENERAL JOURNAL,10/27/2024,Tax Payable,CUST_0005,-205.0,Invoice:2170
+SPL,nan,GENERAL JOURNAL,10/27/2024,Service Income,CUST_0005,-2490.0,Invoice:2170 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/28/2024,Income,OWNER,205.0,Sales tax for invoice #2170
+SPL,nan,GENERAL JOURNAL,10/28/2024,CITY,OWNER,-205.0,Sales tax for invoice #2170
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/29/2024,Accounts Receivable,OWNER,295.0,Payment for invoice #2164 - CUST_0128
+SPL,nan,GENERAL JOURNAL,10/29/2024,Service Income,OWNER,-295.0,Payment for invoice #2164 - CUST_0128
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/20/2024,Accounts Receivable,CUST_0128,319.0,Invoice:2164
+SPL,nan,GENERAL JOURNAL,10/20/2024,Tax Payable,CUST_0128,-24.0,Invoice:2164
+SPL,nan,GENERAL JOURNAL,10/20/2024,Service Income,CUST_0128,-295.0,Invoice:2164 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/29/2024,Income,OWNER,24.0,Sales tax for invoice #2164
+SPL,nan,GENERAL JOURNAL,10/29/2024,CITY,OWNER,-24.0,Sales tax for invoice #2164
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/30/2024,Accounts Receivable,OWNER,292.0,Payment for invoice #2165 - CUST_0006
+SPL,nan,GENERAL JOURNAL,10/30/2024,Service Income,OWNER,-292.0,Payment for invoice #2165 - CUST_0006
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/30/2024,Income,OWNER,24.0,Sales tax for invoice #2165
+SPL,nan,GENERAL JOURNAL,10/30/2024,CITY,OWNER,-24.0,Sales tax for invoice #2165
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/30/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2172 - CUST_0132
+SPL,nan,GENERAL JOURNAL,10/30/2024,Service Income,OWNER,-155.0,Payment for invoice #2172 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/1/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2172
+SPL,nan,GENERAL JOURNAL,11/1/2024,Tax Payable,CUST_0132,-13.0,Invoice:2172
+SPL,nan,GENERAL JOURNAL,11/1/2024,Service Income,CUST_0132,-155.0,Invoice:2172 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/30/2024,Income,OWNER,13.0,Sales tax for invoice #2172
+SPL,nan,GENERAL JOURNAL,10/30/2024,CITY,OWNER,-13.0,Sales tax for invoice #2172
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/31/2024,Accounts Receivable,OWNER,268.0,Payment for invoice #2163 - CUST_0057
+SPL,nan,GENERAL JOURNAL,10/31/2024,Service Income,OWNER,-268.0,Payment for invoice #2163 - CUST_0057
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/31/2024,Income,OWNER,0.0,Sales tax for invoice #2163
+SPL,nan,GENERAL JOURNAL,10/31/2024,CITY,OWNER,0.0,Sales tax for invoice #2163
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/1/2024,Accounts Receivable,OWNER,50.0,Payment for invoice #2173 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,11/1/2024,Service Income,OWNER,-50.0,Payment for invoice #2173 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/9/2024,Accounts Receivable,CUST_0055,50.0,Invoice:2173
+SPL,nan,GENERAL JOURNAL,11/9/2024,Service Income,CUST_0055,-50.0,Invoice:2173 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/2/2024,Accounts Receivable,OWNER,420.0,Payment for invoice #2159 - CUST_0109
+SPL,nan,GENERAL JOURNAL,11/2/2024,Service Income,OWNER,-420.0,Payment for invoice #2159 - CUST_0109
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/2/2024,Income,OWNER,35.0,Sales tax for invoice #2159
+SPL,nan,GENERAL JOURNAL,11/2/2024,CITY,OWNER,-35.0,Sales tax for invoice #2159
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/6/2024,Accounts Receivable,OWNER,292.0,Payment for invoice #2174 - CUST_0031
+SPL,nan,GENERAL JOURNAL,11/6/2024,Service Income,OWNER,-292.0,Payment for invoice #2174 - CUST_0031
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/7/2024,Accounts Receivable,CUST_0031,633.0,Invoice:2174
+SPL,nan,GENERAL JOURNAL,11/7/2024,Tax Payable,CUST_0031,-48.0,Invoice:2174
+SPL,nan,GENERAL JOURNAL,11/7/2024,Service Income,CUST_0031,-585.0,Invoice:2174 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/6/2024,Income,OWNER,24.0,Sales tax for invoice #2174
+SPL,nan,GENERAL JOURNAL,11/6/2024,CITY,OWNER,-24.0,Sales tax for invoice #2174
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/7/2024,Accounts Receivable,OWNER,292.0,Payment for invoice #2174 - CUST_0031
+SPL,nan,GENERAL JOURNAL,11/7/2024,Service Income,OWNER,-292.0,Payment for invoice #2174 - CUST_0031
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/7/2024,Income,OWNER,24.0,Sales tax for invoice #2174
+SPL,nan,GENERAL JOURNAL,11/7/2024,CITY,OWNER,-24.0,Sales tax for invoice #2174
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/11/2024,Accounts Receivable,OWNER,180.0,Payment for invoice #2175 - CUST_0045
+SPL,nan,GENERAL JOURNAL,11/11/2024,Service Income,OWNER,-180.0,Payment for invoice #2175 - CUST_0045
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/19/2024,Accounts Receivable,CUST_0045,195.0,Invoice:2175
+SPL,nan,GENERAL JOURNAL,11/19/2024,Tax Payable,CUST_0045,-15.0,Invoice:2175
+SPL,nan,GENERAL JOURNAL,11/19/2024,Service Income,CUST_0045,-180.0,Invoice:2175 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/11/2024,Income,OWNER,15.0,Sales tax for invoice #2175
+SPL,nan,GENERAL JOURNAL,11/11/2024,CITY,OWNER,-15.0,Sales tax for invoice #2175
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/14/2024,Accounts Receivable,OWNER,600.0,Payment for invoice #2176 - CUST_0029
+SPL,nan,GENERAL JOURNAL,11/14/2024,Service Income,OWNER,-600.0,Payment for invoice #2176 - CUST_0029
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/20/2024,Accounts Receivable,CUST_0029,600.0,Invoice:2176
+SPL,nan,GENERAL JOURNAL,11/20/2024,Service Income,CUST_0029,-600.0,Invoice:2176 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/15/2024,Accounts Receivable,OWNER,870.0,Payment for invoice #2178 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,11/15/2024,Service Income,OWNER,-870.0,Payment for invoice #2178 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/22/2024,Accounts Receivable,CUST_0064,942.0,Invoice:2178
+SPL,nan,GENERAL JOURNAL,11/22/2024,Tax Payable,CUST_0064,-72.0,Invoice:2178
+SPL,nan,GENERAL JOURNAL,11/22/2024,Service Income,CUST_0064,-870.0,Invoice:2178 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/15/2024,Income,OWNER,72.0,Sales tax for invoice #2178
+SPL,nan,GENERAL JOURNAL,11/15/2024,CITY,OWNER,-72.0,Sales tax for invoice #2178
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/22/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2180 - CUST_0131
+SPL,nan,GENERAL JOURNAL,11/22/2024,Service Income,OWNER,-250.0,Payment for invoice #2180 - CUST_0131
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/30/2024,Accounts Receivable,CUST_0131,250.0,Invoice:2180
+SPL,nan,GENERAL JOURNAL,11/30/2024,Service Income,CUST_0131,-250.0,Invoice:2180 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/22/2024,Accounts Receivable,OWNER,250.0,Payment for invoice #2179 - CUST_0131
+SPL,nan,GENERAL JOURNAL,11/22/2024,Service Income,OWNER,-250.0,Payment for invoice #2179 - CUST_0131
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/29/2024,Accounts Receivable,CUST_0131,250.0,Invoice:2179
+SPL,nan,GENERAL JOURNAL,11/29/2024,Service Income,CUST_0131,-250.0,Invoice:2179 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/25/2024,Accounts Receivable,OWNER,600.0,Payment for invoice #2181 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,11/25/2024,Service Income,OWNER,-600.0,Payment for invoice #2181 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/30/2024,Accounts Receivable,CUST_0085,600.0,Invoice:2181
+SPL,nan,GENERAL JOURNAL,11/30/2024,Service Income,CUST_0085,-600.0,Invoice:2181 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/26/2024,Accounts Receivable,OWNER,24125.0,Payment for invoice #2171 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,11/26/2024,Service Income,OWNER,-24125.0,Payment for invoice #2171 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/23/2024,Accounts Receivable,CUST_0139,26115.0,Invoice:2171
+SPL,nan,GENERAL JOURNAL,11/23/2024,Tax Payable,CUST_0139,-1990.0,Invoice:2171
+SPL,nan,GENERAL JOURNAL,11/23/2024,Service Income,CUST_0139,-16160.0,Invoice:2171 SERVICE
+SPL,nan,GENERAL JOURNAL,11/23/2024,Service Income,CUST_0139,-2040.0,Invoice:2171 SERVICE
+SPL,nan,GENERAL JOURNAL,11/23/2024,Service Income,CUST_0139,-2485.0,Invoice:2171 SERVICE
+SPL,nan,GENERAL JOURNAL,11/23/2024,Service Income,CUST_0139,-2745.0,Invoice:2171 SERVICE
+SPL,nan,GENERAL JOURNAL,11/23/2024,Service Income,CUST_0139,-695.0,Invoice:2171 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/26/2024,Income,OWNER,1990.0,Sales tax for invoice #2171
+SPL,nan,GENERAL JOURNAL,11/26/2024,CITY,OWNER,-1990.0,Sales tax for invoice #2171
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/26/2024,Accounts Receivable,OWNER,95.0,Payment for invoice #2183 - CUST_0118
+SPL,nan,GENERAL JOURNAL,11/26/2024,Service Income,OWNER,-95.0,Payment for invoice #2183 - CUST_0118
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/5/2024,Accounts Receivable,CUST_0118,103.0,Invoice:2183
+SPL,nan,GENERAL JOURNAL,12/5/2024,Tax Payable,CUST_0118,-8.0,Invoice:2183
+SPL,nan,GENERAL JOURNAL,12/5/2024,Service Income,CUST_0118,-95.0,Invoice:2183 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/26/2024,Income,OWNER,8.0,Sales tax for invoice #2183
+SPL,nan,GENERAL JOURNAL,11/26/2024,CITY,OWNER,-8.0,Sales tax for invoice #2183
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/28/2024,Accounts Receivable,OWNER,590.0,Payment for invoice #2182 - CUST_0127
+SPL,nan,GENERAL JOURNAL,11/28/2024,Service Income,OWNER,-590.0,Payment for invoice #2182 - CUST_0127
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/3/2024,Accounts Receivable,CUST_0127,639.0,Invoice:2182
+SPL,nan,GENERAL JOURNAL,12/3/2024,Tax Payable,CUST_0127,-49.0,Invoice:2182
+SPL,nan,GENERAL JOURNAL,12/3/2024,Service Income,CUST_0127,-590.0,Invoice:2182 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/28/2024,Income,OWNER,49.0,Sales tax for invoice #2182
+SPL,nan,GENERAL JOURNAL,11/28/2024,CITY,OWNER,-49.0,Sales tax for invoice #2182
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,11/30/2024,Accounts Receivable,OWNER,395.0,Payment for invoice #2186 - CUST_0110
+SPL,nan,GENERAL JOURNAL,11/30/2024,Service Income,OWNER,-395.0,Payment for invoice #2186 - CUST_0110
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/3/2024,Accounts Receivable,CUST_0110,395.0,Invoice:2186
+SPL,nan,GENERAL JOURNAL,12/3/2024,Service Income,CUST_0110,-200.0,Invoice:2186 SERVICE
+SPL,nan,GENERAL JOURNAL,12/3/2024,Service Income,CUST_0110,-195.0,Invoice:2186 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/6/2024,Accounts Receivable,OWNER,1578.0,Payment for invoice #2110 - CUST_0092
+SPL,nan,GENERAL JOURNAL,12/6/2024,Service Income,OWNER,-1578.0,Payment for invoice #2110 - CUST_0092
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/6/2024,Income,OWNER,130.0,Sales tax for invoice #2110
+SPL,nan,GENERAL JOURNAL,12/6/2024,CITY,OWNER,-130.0,Sales tax for invoice #2110
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/8/2024,Accounts Receivable,OWNER,195.0,Payment for invoice #2185 - CUST_0009
+SPL,nan,GENERAL JOURNAL,12/8/2024,Service Income,OWNER,-195.0,Payment for invoice #2185 - CUST_0009
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/7/2024,Accounts Receivable,CUST_0009,211.0,Invoice:2185
+SPL,nan,GENERAL JOURNAL,12/7/2024,Tax Payable,CUST_0009,-16.0,Invoice:2185
+SPL,nan,GENERAL JOURNAL,12/7/2024,Service Income,CUST_0009,-195.0,Invoice:2185 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/8/2024,Income,OWNER,16.0,Sales tax for invoice #2185
+SPL,nan,GENERAL JOURNAL,12/8/2024,CITY,OWNER,-16.0,Sales tax for invoice #2185
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/9/2024,Accounts Receivable,OWNER,4690.0,Payment for invoice #2188 - CUST_0039
+SPL,nan,GENERAL JOURNAL,12/9/2024,Service Income,OWNER,-4690.0,Payment for invoice #2188 - CUST_0039
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/9/2024,Accounts Receivable,CUST_0039,5077.0,Invoice:2188
+SPL,nan,GENERAL JOURNAL,12/9/2024,Tax Payable,CUST_0039,-387.0,Invoice:2188
+SPL,nan,GENERAL JOURNAL,12/9/2024,Service Income,CUST_0039,-4395.0,Invoice:2188 SERVICE
+SPL,nan,GENERAL JOURNAL,12/9/2024,Service Income,CUST_0039,-295.0,Invoice:2188 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/9/2024,Income,OWNER,387.0,Sales tax for invoice #2188
+SPL,nan,GENERAL JOURNAL,12/9/2024,CITY,OWNER,-387.0,Sales tax for invoice #2188
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/10/2024,Accounts Receivable,OWNER,2465.0,Payment for invoice #2189 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,12/10/2024,Service Income,OWNER,-2465.0,Payment for invoice #2189 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/17/2024,Accounts Receivable,CUST_0060,2668.0,Invoice:2189
+SPL,nan,GENERAL JOURNAL,12/17/2024,Tax Payable,CUST_0060,-203.0,Invoice:2189
+SPL,nan,GENERAL JOURNAL,12/17/2024,Service Income,CUST_0060,-1770.0,Invoice:2189 SERVICE
+SPL,nan,GENERAL JOURNAL,12/17/2024,Service Income,CUST_0060,-695.0,Invoice:2189 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/10/2024,Income,OWNER,203.0,Sales tax for invoice #2189
+SPL,nan,GENERAL JOURNAL,12/10/2024,CITY,OWNER,-203.0,Sales tax for invoice #2189
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/13/2024,Accounts Receivable,OWNER,1720.0,Payment for invoice #2187 - CUST_0010
+SPL,nan,GENERAL JOURNAL,12/13/2024,Service Income,OWNER,-1720.0,Payment for invoice #2187 - CUST_0010
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/8/2024,Accounts Receivable,CUST_0010,1862.0,Invoice:2187
+SPL,nan,GENERAL JOURNAL,12/8/2024,Tax Payable,CUST_0010,-142.0,Invoice:2187
+SPL,nan,GENERAL JOURNAL,12/8/2024,Service Income,CUST_0010,-1125.0,Invoice:2187 SERVICE
+SPL,nan,GENERAL JOURNAL,12/8/2024,Service Income,CUST_0010,-595.0,Invoice:2187 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/13/2024,Income,OWNER,142.0,Sales tax for invoice #2187
+SPL,nan,GENERAL JOURNAL,12/13/2024,CITY,OWNER,-142.0,Sales tax for invoice #2187
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/19/2024,Accounts Receivable,OWNER,125.0,Payment for invoice #2184 - CUST_0022
+SPL,nan,GENERAL JOURNAL,12/19/2024,Service Income,OWNER,-125.0,Payment for invoice #2184 - CUST_0022
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/5/2024,Accounts Receivable,CUST_0022,135.0,Invoice:2184
+SPL,nan,GENERAL JOURNAL,12/5/2024,Tax Payable,CUST_0022,-10.0,Invoice:2184
+SPL,nan,GENERAL JOURNAL,12/5/2024,Service Income,CUST_0022,-125.0,Invoice:2184 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/19/2024,Income,OWNER,10.0,Sales tax for invoice #2184
+SPL,nan,GENERAL JOURNAL,12/19/2024,CITY,OWNER,-10.0,Sales tax for invoice #2184
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/19/2024,Accounts Receivable,OWNER,155.0,Payment for invoice #2192 - CUST_0132
+SPL,nan,GENERAL JOURNAL,12/19/2024,Service Income,OWNER,-155.0,Payment for invoice #2192 - CUST_0132
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/26/2024,Accounts Receivable,CUST_0132,168.0,Invoice:2192
+SPL,nan,GENERAL JOURNAL,12/26/2024,Tax Payable,CUST_0132,-13.0,Invoice:2192
+SPL,nan,GENERAL JOURNAL,12/26/2024,Service Income,CUST_0132,-155.0,Invoice:2192 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/19/2024,Income,OWNER,13.0,Sales tax for invoice #2192
+SPL,nan,GENERAL JOURNAL,12/19/2024,CITY,OWNER,-13.0,Sales tax for invoice #2192
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/19/2024,Accounts Receivable,OWNER,641.0,Payment for invoice #2193 - CUST_0014
+SPL,nan,GENERAL JOURNAL,12/19/2024,Service Income,OWNER,-641.0,Payment for invoice #2193 - CUST_0014
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/25/2025,Accounts Receivable,CUST_0014,2777.0,Invoice:2193
+SPL,nan,GENERAL JOURNAL,1/25/2025,Tax Payable,CUST_0014,-212.0,Invoice:2193
+SPL,nan,GENERAL JOURNAL,1/25/2025,Service Income,CUST_0014,-595.0,Invoice:2193 SERVICE
+SPL,nan,GENERAL JOURNAL,1/25/2025,Service Income,CUST_0014,-885.0,Invoice:2193 SERVICE
+SPL,nan,GENERAL JOURNAL,1/25/2025,Service Income,CUST_0014,-395.0,Invoice:2193 SERVICE
+SPL,nan,GENERAL JOURNAL,1/25/2025,Service Income,CUST_0014,-495.0,Invoice:2193 SERVICE
+SPL,nan,GENERAL JOURNAL,1/25/2025,Service Income,CUST_0014,-195.0,Invoice:2193 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/19/2024,Income,OWNER,53.0,Sales tax for invoice #2193
+SPL,nan,GENERAL JOURNAL,12/19/2024,CITY,OWNER,-53.0,Sales tax for invoice #2193
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/20/2024,Accounts Receivable,OWNER,249.0,Payment for invoice #2195 - NON_CUSTOMER
+SPL,nan,GENERAL JOURNAL,12/20/2024,Service Income,OWNER,-249.0,Payment for invoice #2195 - NON_CUSTOMER
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/20/2024,Accounts Receivable,CUST_0041,270.0,Invoice:2195
+SPL,nan,GENERAL JOURNAL,12/20/2024,Tax Payable,CUST_0041,-21.0,Invoice:2195
+SPL,nan,GENERAL JOURNAL,12/20/2024,Service Income,CUST_0041,-249.0,Invoice:2195 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/20/2024,Income,OWNER,21.0,Sales tax for invoice #2195
+SPL,nan,GENERAL JOURNAL,12/20/2024,CITY,OWNER,-21.0,Sales tax for invoice #2195
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/21/2024,Accounts Receivable,OWNER,1369.0,Payment for invoice #2194 - CUST_0119
+SPL,nan,GENERAL JOURNAL,12/21/2024,Service Income,OWNER,-1369.0,Payment for invoice #2194 - CUST_0119
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,1/18/2025,Accounts Receivable,CUST_0119,5927.0,Invoice:2194
+SPL,nan,GENERAL JOURNAL,1/18/2025,Tax Payable,CUST_0119,-452.0,Invoice:2194
+SPL,nan,GENERAL JOURNAL,1/18/2025,Service Income,CUST_0119,-3880.0,Invoice:2194 SERVICE
+SPL,nan,GENERAL JOURNAL,1/18/2025,Service Income,CUST_0119,0.0,Invoice:2194 SERVICE
+SPL,nan,GENERAL JOURNAL,1/18/2025,Service Income,CUST_0119,-1595.0,Invoice:2194 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/21/2024,Income,OWNER,113.0,Sales tax for invoice #2194
+SPL,nan,GENERAL JOURNAL,12/21/2024,CITY,OWNER,-113.0,Sales tax for invoice #2194
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/22/2024,Accounts Receivable,OWNER,1350.0,Payment for invoice #2194 - CUST_0119
+SPL,nan,GENERAL JOURNAL,12/22/2024,Service Income,OWNER,-1350.0,Payment for invoice #2194 - CUST_0119
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/22/2024,Income,OWNER,111.0,Sales tax for invoice #2194
+SPL,nan,GENERAL JOURNAL,12/22/2024,CITY,OWNER,-111.0,Sales tax for invoice #2194
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/21/2024,Accounts Receivable,OWNER,650.0,Payment for invoice #2191 - CUST_0127
+SPL,nan,GENERAL JOURNAL,12/21/2024,Sales,OWNER,-650.0,Payment for invoice #2191 - CUST_0127
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/21/2024,Accounts Receivable,CUST_0127,704.0,Invoice:2191
+SPL,nan,GENERAL JOURNAL,12/21/2024,Tax Payable,CUST_0127,-54.0,Invoice:2191
+SPL,nan,GENERAL JOURNAL,12/21/2024,Sales,CUST_0127,-650.0,Invoice:2191 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/21/2024,Income,OWNER,54.0,Sales tax for invoice #2191
+SPL,nan,GENERAL JOURNAL,12/21/2024,CITY,OWNER,-54.0,Sales tax for invoice #2191
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/25/2024,Accounts Receivable,OWNER,7720.0,Payment for invoice #2168 - CUST_0063
+SPL,nan,GENERAL JOURNAL,12/25/2024,Service Income,OWNER,-7720.0,Payment for invoice #2168 - CUST_0063
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,10/18/2024,Accounts Receivable,CUST_0063,8357.0,Invoice:2168
+SPL,nan,GENERAL JOURNAL,10/18/2024,Tax Payable,CUST_0063,-637.0,Invoice:2168
+SPL,nan,GENERAL JOURNAL,10/18/2024,Service Income,CUST_0063,-7720.0,Invoice:2168 SERVICE
+ENDTRNS,nan,,,nan,,,nan
+TRNS,nan,GENERAL JOURNAL,12/25/2024,Income,OWNER,637.0,Sales tax for invoice #2168
+SPL,nan,GENERAL JOURNAL,12/25/2024,CITY,OWNER,-637.0,Sales tax for invoice #2168
+ENDTRNS,nan,,,nan,,,nan
